@@ -1,0 +1,39 @@
+![[Pasted image 20231029212601.png]]
+
+Luego de lanzar un ping y ver que el host responde realizamos un escaneo con nmap.
+![[Pasted image 20231029213315.png]]
+Mientras se realiza el mismo nos dirigimos al navegador para verificar si se encuentra disponible un servidor web.
+![[Pasted image 20231029213500.png]]
+Ahora que sabemos hay un servidor web, cuando finalice el escaneo con nmap revisaremos con gobuster para verificar si encontramos subdirectorios.
+El resultado de nmap fue el siguiente:
+![[Pasted image 20231029213703.png]]
+Vemos que tenemos un puerto ssh y tambien un ftp que podría contener cosas interesantes, antes de realizar las pruebas sobre el puerto 21 vamos a poner a correr el gobuster.
+![[Pasted image 20231029213837.png]]
+Mientras gobuster esta realizando el escaneo, utilizamos el script de nmap para verificar si ftp tiene el acceso de anonymous permitido:
+![[Pasted image 20231029214104.png]]
+Como vemos que el acceso se encuentra habilitado, nos conectamos al servidor.
+![[Pasted image 20231029214328.png]]
+Una vez dentro vemos que no podemos utilizar comandos debido al modo pasivo, así que utilizamos el comando passive para desactivarlo y listando archivos vemos que se encuentran 2 txt disponibles, así que vamos a obtenerlos con el comando get.
+![[Pasted image 20231029214604.png]]
+Ahora que los tenemos de forma local los revisamos.
+![[Pasted image 20231029214652.png]]
+El primer archivo pareciera ser una lista de contraseñas y en el segundo archivos vemos que el mismo se encuentra firmado por lin.
+Podemos intentar realizar un ataque de fuerza bruta con hydra al puerto 22 con el nombre lin y las posibles contraseñas obtenidas.
+![[Pasted image 20231029214946.png]]
+Luego del ataque de fuerza bruta conseguimos nuestras credenciales de acceso correspondientes así que ingresamos por ssh a nuestra maquina objetivo.
+![[Pasted image 20231029215122.png]]
+Una vez dentro verificamos nuestro usuario y buscamos la primera flag.
+![[Pasted image 20231029215151.png]]
+Ahora debemos encontrar la forma de escalar privilegios para conseguir el acceso como root.
+Con sudo -l vemos que podemos utilizar tar como el usuario root
+![[Pasted image 20231029215300.png]]
+Por lo que revisamos en GTFOBINS si hay alguna forma de escalar por este lado.
+![[Pasted image 20231029215415.png]]
+Ejecutamos en nuestra shell y verificamos si ganamos acceso como root.
+![[Pasted image 20231029215445.png]]
+Ahora obtenemos la flag de root.
+![[Pasted image 20231029215541.png]]
+
+![[Pasted image 20231029220254.png]]
+
+

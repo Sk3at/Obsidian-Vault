@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "e7ce7ff454f78789",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16afca786f58fa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a6a263722c3739a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ec6e8432c050bc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "092f1751e102b16f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9794d1432e17f37a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa76840ab00a4edf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cd03de5cd23d508",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "74bc81b6fc72898f",
+    "type": "split",
+    "children": [
+      {
+        "id": "409feda6b051d3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65033ffaee52b1c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f265e83efeb452ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e37ca6ad7f4539d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b22a60d1c9f2046e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d11eb21c67507ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "8a6a263722c3739a",
+  "lastOpenFiles": [
+    "TEST/test.md",
+    "remote",
+    "Tryhackme/CTFs/Easy/Bounty Hacker.md",
+    "TEST",
+    "Tryhackme/CTFs/Easy/Brooklyn Nine Nine.md",
+    "Tryhackme/Images/Pasted image 20231102132406.png",
+    "Tryhackme/Images/Pasted image 20231102132147.png",
+    "Tryhackme/Images/Pasted image 20231102132134.png",
+    "Tryhackme/Images/Pasted image 20231102132059.png",
+    "Tryhackme/Images/Pasted image 20231102131751.png",
+    "Tryhackme/Images/Pasted image 20231102131629.png",
+    "Tryhackme/Images/Pasted image 20231102131004.png",
+    "Tryhackme/Images/Pasted image 20231102125552.png",
+    "Tryhackme/Images/Pasted image 20231102125521.png",
+    "Tryhackme/Images/Pasted image 20231102124433.png",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/1. Exploits del Kernel Windows.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/1. Explotando Windows/7. WinRM.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows",
+    "Tryhackme/CTFs/Easy/Tomghost.md",
+    "Tryhackme/CTFs/Medium/Wonderland.md",
+    "Tryhackme/CTFs/Medium/Anonymous.md",
+    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/6. SAMBA 3.md",
+    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/4. SAMBA 1.md",
+    "Tryhackme/CTFs/Medium",
+    "Tryhackme/CTFs/Easy",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/1. Explotando Windows/6. AutoBlue-MS17-010.md",
+    "Tryhackme/CTFs",
+    "Tryhackme/Mr.Robot.md",
+    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/5. SQL/2. MySQL Ataque por Diccionario.md",
+    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/2. FTP/1. ProFTP.md",
+    "CCNA/CCNA1 Introducción a las Redes/1. Redes en la actualidad/2. Componentes de Red.md",
+    "Tryhackme/Images",
+    "Tryhackme/Images",
+    "Tryhackme",
+    "CCNA/CCNA1 Introducción a las Redes/1. Redes en la actualidad/1. Las redes afectan nuestras vidas.md",
+    "INE eJPTv2/1. Métodos de evaluación/2. Footprinting & Scanning/3. Ejercicios/Nmap Host Discovery.md",
+    "CCNA/CCNA1 Introducción a las Redes/1. Redes en la actualidad",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/1. Explotando Windows/1. Servicios de Windows.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/1. Reconocimiento Web & Footprinting.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/1. Explotando Windows/5. Servicio RDP Inseguro.md",
+    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/7. SAMBA Ataque por Diccionario.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/1. Explotando Windows/4. Explotando SMB con PsExec.md",
+    "INE eJPTv2/1. Métodos de evaluación/2. Footprinting & Scanning/3. Ejercicios/Zenmap.md",
+    "INE eJPTv2/1. Métodos de evaluación/2. Footprinting & Scanning/4. Desafios/Scan the server 3.md"
+  ]
+}
