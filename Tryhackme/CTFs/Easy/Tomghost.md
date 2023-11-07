@@ -1,5 +1,4 @@
 ![[Pasted image 20231031114613.png]]
-
 Realizamos un escaneo con nmap
 ![[Pasted image 20231031120005.png]]
 Buscamos si tenemos algún exploit disponible para ajp y encontramos uno que esta en el marco de metasploit.
@@ -14,7 +13,7 @@ Las credenciales erran correctas y ya tenemos un pie dentro de la maquina como e
 Dentro del directorio home ubicamos otro usuario al que tenemos acceso y este usuario tiene nuestra primera flag.
 ![[Pasted image 20231031120724.png]]
 Ahora emitimos los comandos para verificar si hay privilegios con los que podemos escalar.
-Luego de probar varios comandos no encontramos ninguna forma de escalar los privilegios con nuestro usuario actual, asi que debemos conseguir las credenciales para el usuario merlin. En nuestro home encontramos dos archivos.
+Luego de probar varios comandos no encontramos ninguna forma de escalar los privilegios con nuestro usuario actual, así que debemos conseguir las credenciales para el usuario merlin. En nuestro home encontramos dos archivos.
 ![[Pasted image 20231031122245.png]]
 Los pasaremos a nuestra maquina local e intentaremos crackearlos.
 Par ello:

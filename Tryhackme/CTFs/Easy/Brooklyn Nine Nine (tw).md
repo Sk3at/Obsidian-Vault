@@ -8,7 +8,7 @@ Mientras se realiza el escaneo nos dirigimos al navegador y colocamos la direcci
 ![[Pasted image 20231102124054.png]]
 El mismo existe así que verificamos el código fuente de la pagina para ver si encontramos algo de interés.
 ![[Pasted image 20231102124133.png]]
-Vemos que el código fuente nos habla son esteganografía, así que podemos descargar la imagen y verificar con stego si encontramos algo oculto en ella.
+Vemos que el código fuente nos habla de esteganografía, así que podemos descargar la imagen y verificar con stego si encontramos algo oculto en ella.
 Antes de trabajar con la imagen revisamos nuestro escaneo con nmap
 ![[Pasted image 20231102124355.png]]
 Vemos que tenemos un puerto 21 y 22 abiertos, así que realizamos nuevamente un escaneo pero sin sC.
