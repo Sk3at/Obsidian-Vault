@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tryhackme/CTFs/Easy/Tomghost.md",
+                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af7cea3bdcdeef6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tryhackme/CTFs/Easy/Tomghost.md",
+                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tryhackme/CTFs/Easy/Tomghost.md",
+                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tryhackme/CTFs/Easy/Tomghost.md"
+                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md"
               }
             }
           },
@@ -158,49 +171,49 @@
   },
   "active": "9794d1432e17f37a",
   "lastOpenFiles": [
-    "Tryhackme/CTFs/Medium/Wonderland (tw).md",
-    "Tryhackme/CTFs/Easy/Tomghost.md",
-    "Tryhackme/CTFs/Easy/RootMe.md",
-    "Tryhackme/Images/Pasted image 20231107011657.png",
-    "Tryhackme/Images/Pasted image 20231107011559.png",
-    "Tryhackme/Images/Pasted image 20231107011339.png",
-    "Tryhackme/Images/Pasted image 20231107011237.png",
-    "Tryhackme/Images/Pasted image 20231107011148.png",
-    "Tryhackme/Images/Pasted image 20231107010938.png",
-    "Tryhackme/Images/Pasted image 20231107010530.png",
-    "Tryhackme/Images/Pasted image 20231107010408.png",
-    "Tryhackme/Images/Pasted image 20231107010250.png",
-    "Tryhackme/Images/Pasted image 20231107010007.png",
-    "Tryhackme/CTFs/Easy/Brooklyn Nine Nine (tw).md",
+    "INE eJPTv2/Images/Pasted image 20231107231940.png",
+    "INE eJPTv2/Images/Pasted image 20231107231916.png",
+    "Cheatsheet.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
+    "INE eJPTv2/Images/Pasted image 20231107230050.png",
+    "INE eJPTv2/Images/Pasted image 20231107225855.png",
+    "INE eJPTv2/Images/Pasted image 20231107225827.png",
+    "INE eJPTv2/Images/Pasted image 20231107225805.png",
+    "INE eJPTv2/Images/Pasted image 20231107225532.png",
+    "INE eJPTv2/Images/Pasted image 20231107225528.png",
+    "INE eJPTv2/Images/Pasted image 20231107225433.png",
+    "INE eJPTv2/Images/Pasted image 20231107225332.png",
+    "INE eJPTv2/Images/Pasted image 20231107225232.png",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/2. Bypass UAC con UACMe.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/4. Reconocimiento DNS.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/1. Transferencia de zona DNS.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/1. Reconocimiento Web & Footprinting.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/2. Reconocimiento con WHOIS.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/5. Detección de WAF.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/6. Enumeración de subdominios.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/7. Google Dorking.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/8. Recolección de emails.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/9. Contraseñas filtradas.md",
     "Tryhackme/CTFs/Easy/Bounty Hacker (tw).md",
+    "Tryhackme/CTFs/Easy/Brooklyn Nine Nine (tw).md",
+    "Tryhackme/CTFs/Medium/Anonymous (tw).md",
+    "Tryhackme/CTFs/Easy/RootMe.md",
     "Tryhackme/CTFs/Medium/Boiler (tw).md",
+    "Tryhackme/CTFs/Easy/Tomghost.md",
+    "Tryhackme/CTFs/Medium/Wonderland (tw).md",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/1. Enlace de datos.md",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/2. Métodos de acceso.md",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/3. Trama de enlace de datos.md",
     "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/1. Protocolos de capa de red.md",
     "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/2. IPv4.md",
-    "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/3. IPv6.md",
-    "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/4. Enrutamiento de hosts.md",
-    "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/5. Enrutamiento de routers.md",
     "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red",
-    "CCNA/CCNA1 Introducción a las Redes/3. Protocolos y Modelos/1. Protocolos, modelos y estandares.md",
-    "CCNA/CCNA1 Introducción a las Redes/1. Redes en la actualidad/2. Componentes de Red.md",
-    "CCNA/CCNA1 Introducción a las Redes/1. Redes en la actualidad/3. Topologías y representaciones de Red.md",
-    "Tryhackme/CTFs/Medium/Anonymous (tw).md",
-    "CCNA/CCNA1 Introducción a las Redes/5. Sistemas númericos/2. Numeración hexadecimal.md",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos",
-    "CCNA/CCNA1 Introducción a las Redes/5. Sistemas númericos/1. Numeración binaria.md",
-    "CCNA/CCNA1 Introducción a las Redes/4. Capa Fisica/1. Proposito y caracteristicas.md",
     "CCNA/CCNA1 Introducción a las Redes/5. Sistemas númericos",
     "CCNA/CCNA1 Introducción a las Redes/4. Capa Fisica",
-    "CCNA/CCNA1 Introducción a las Redes/2. Sistema Operativo y Navegación/1. OS y Navegación.md",
     "CCNA/CCNA1 Introducción a las Redes/3. Protocolos y Modelos",
-    "CCNA/CCNA1 Introducción a las Redes/3. Protocolos y Modelos.md",
     "CCNA/CCNA1 Introducción a las Redes/2. Sistema Operativo y Navegación",
     "CCNA/Images",
-    "CCNA/CCNA1 Introducción a las Redes/1. Redes en la actualidad/1. Las redes afectan nuestras vidas.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/1. Exploits del Kernel Windows.md",
     "remote",
     "TEST",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows"
