@@ -56,7 +56,7 @@ El comando sudo -l no nos trae una respuesta positiva
 Así que probamos con el comando find / -type f -perm 4000 -ls 2>/dev/null
 Tampoco encontramos una respuesta positiva así que consultamos las pistas de la maquina y nos indica:
 ![[Pasted image 20231107010938.png]]
-Ejecutamos ese comando agregandole 2>/dev/null para redirigir los errores y vemos que entre los binarios con permisos de root se encuentra python
+Ejecutamos ese comando agregándole 2>/dev/null para redirigir los errores y vemos que entre los binarios con permisos de root se encuentra python
 ![[Pasted image 20231107011148.png]]
 Nos dirigimos a GTFOBINS y comprobamos el comando para escalar nuestros privilegios
 ![[Pasted image 20231107011237.png]]

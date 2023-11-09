@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "Tryhackme/CTFs/Easy/IDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "Tryhackme/CTFs/Easy/IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "Tryhackme/CTFs/Easy/IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheet.md"
+                "file": "Tryhackme/CTFs/Easy/IDE.md"
               }
             }
           },
@@ -156,25 +156,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "af7cea3bdcdeef6c",
+  "active": "9794d1432e17f37a",
   "lastOpenFiles": [
-    "CCNA/Images/Pasted image 20231109052132.png",
-    "CCNA/Images/Pasted image 20231109052110.png",
-    "CCNA/Images/Pasted image 20231109051036.png",
-    "CCNA/Images/Pasted image 20231109050703.png",
+    "Tryhackme/Images/Pasted image 20231109193025.png",
+    "Tryhackme/Images/Pasted image 20231109192747.png",
+    "Tryhackme/Images/Pasted image 20231109192736.png",
+    "Tryhackme/Images/Pasted image 20231109192710.png",
+    "Tryhackme/CTFs/Easy/Lian_Yu (tw) Pending WRITEUP.md",
+    "Tryhackme/CTFs/Medium/Wonderland (tw).md",
+    "Tryhackme/CTFs/Easy/RootMe (tw).md",
+    "Tryhackme/CTFs/Easy/IDE.md",
+    "Tryhackme/Images/Pasted image 20231109190933.png",
+    "Tryhackme/Images/Pasted image 20231109190745.png",
+    "Tryhackme/Images/Pasted image 20231109190108.png",
+    "Tryhackme/Images/Pasted image 20231109190038.png",
+    "Tryhackme/Images/Pasted image 20231109190028.png",
+    "Tryhackme/Images/Pasted image 20231109190003.png",
+    "Tryhackme/Images/Pasted image 20231109184959.png",
+    "Tryhackme/CTFs/Easy/Source.md",
+    "Tryhackme/CTFs/Easy/Tomghost (tw).md",
     "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion/1. MAC e IP.md",
-    "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion",
-    "Tryhackme/CTFs/Easy/RootMe.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
-    "Tryhackme/CTFs/Easy/Lian_Yu.md",
-    "INE eJPTv2/Images/Pasted image 20231107231940.png",
-    "INE eJPTv2/Images/Pasted image 20231107231916.png",
     "Cheatsheet.md",
-    "INE eJPTv2/Images/Pasted image 20231107230050.png",
-    "INE eJPTv2/Images/Pasted image 20231107225855.png",
-    "INE eJPTv2/Images/Pasted image 20231107225827.png",
-    "INE eJPTv2/Images/Pasted image 20231107225805.png",
-    "INE eJPTv2/Images/Pasted image 20231107225532.png",
+    "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/2. Bypass UAC con UACMe.md",
     "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/4. Reconocimiento DNS.md",
     "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/1. Transferencia de zona DNS.md",
@@ -190,11 +194,7 @@
     "Tryhackme/CTFs/Easy/Brooklyn Nine Nine (tw).md",
     "Tryhackme/CTFs/Medium/Anonymous (tw).md",
     "Tryhackme/CTFs/Medium/Boiler (tw).md",
-    "Tryhackme/CTFs/Easy/Tomghost.md",
-    "Tryhackme/CTFs/Medium/Wonderland (tw).md",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/1. Enlace de datos.md",
-    "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/2. Métodos de acceso.md",
-    "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/3. Trama de enlace de datos.md",
     "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos",
     "CCNA/CCNA1 Introducción a las Redes/5. Sistemas númericos",
