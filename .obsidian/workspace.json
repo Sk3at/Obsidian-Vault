@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f16afca786f58fa5",
+        "id": "18d5c320f09d68ca",
         "type": "tabs",
         "children": [
           {
-            "id": "af7cea3bdcdeef6c",
+            "id": "4b9de0f5850a9328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheatsheet.md",
+                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheet.md"
+                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md"
               }
             }
           },
@@ -148,52 +148,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "af7cea3bdcdeef6c",
+  "active": "9794d1432e17f37a",
   "lastOpenFiles": [
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
-    "Tryhackme/CTFs/Medium/Wonderland...md",
-    "Tryhackme/CTFs/Medium/Boiler...md",
-    "Tryhackme/CTFs/Easy/Tomghost...md",
-    "Tryhackme/CTFs/Easy/RootMe...md",
-    "Tryhackme/CTFs/Easy/Source.md",
-    "Tryhackme/CTFs/Easy/Lian_Yu (tw) Pending WRITEUP.md",
-    "Tryhackme/CTFs/Easy/Brooklyn Nine Nine...md",
-    "Tryhackme/CTFs/Easy/IDE.md",
-    "Tryhackme/Images/Pasted image 20231109193025.png",
-    "Tryhackme/Images/Pasted image 20231109192747.png",
-    "Tryhackme/Images/Pasted image 20231109192736.png",
-    "Tryhackme/Images/Pasted image 20231109192710.png",
-    "Tryhackme/Images/Pasted image 20231109190933.png",
-    "Tryhackme/Images/Pasted image 20231109190745.png",
-    "Tryhackme/Images/Pasted image 20231109190108.png",
-    "Tryhackme/Images/Pasted image 20231109190038.png",
-    "Tryhackme/Images/Pasted image 20231109190028.png",
-    "Tryhackme/Images/Pasted image 20231109190003.png",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md",
+    "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion/4. Deteccion de vecinos IPv6 - ND.md",
+    "CCNA/Images/Pasted image 20231110050317.png",
+    "CCNA/Images/Pasted image 20231110023131.png",
+    "CCNA/Images/Pasted image 20231110023002.png",
+    "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion/3. Problemas de seguridad ARP.md",
+    "CCNA/Images/Pasted image 20231110022152.png",
+    "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion/2. ARP.md",
+    "CCNA/Images/Pasted image 20231104155150.png",
+    "CCNA/Images/Pasted image 20231110021746.png",
+    "CCNA/Images/Pasted image 20231110021707.png",
     "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion/1. MAC e IP.md",
+    "CCNA/Images/Pasted image 20231110004905.png",
+    "CCNA/Images/Pasted image 20231110004728.png",
+    "CCNA/Images/Pasted image 20231110004233.png",
     "Cheatsheet.md",
+    "Tryhackme/CTFs/Easy/IDE.md",
+    "Tryhackme/CTFs/Easy/Lian_Yu (tw) Pending WRITEUP.md",
+    "Tryhackme/CTFs/Easy/4. Tomghost.md",
+    "Tryhackme/CTFs/Medium/3. Wonderland.md",
+    "Tryhackme/CTFs/Medium/2. Boiler.md",
+    "Tryhackme/CTFs/Easy/3. RootMe.md",
+    "Tryhackme/CTFs/Easy/2. Brooklyn Nine Nine.md",
+    "Tryhackme/CTFs/Medium/1. Anonymous.md",
+    "Tryhackme/CTFs/Easy/Source.md",
+    "Tryhackme/CTFs/Easy/1. Bounty Hacker.md",
+    "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/5. Enrutamiento de routers.md",
     "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/2. Bypass UAC con UACMe.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/4. Reconocimiento DNS.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/1. Transferencia de zona DNS.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/1. Reconocimiento Web & Footprinting.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/2. Reconocimiento con WHOIS.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/5. Detección de WAF.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/6. Enumeración de subdominios.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/7. Google Dorking.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/8. Recolección de emails.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/9. Contraseñas filtradas.md",
-    "Tryhackme/CTFs/Easy/Bounty Hacker...md",
-    "Tryhackme/CTFs/Medium/Anonymous...md",
+    "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/2. IPv4.md",
+    "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/3. IPv6.md",
+    "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/4. Enrutamiento de hosts.md",
+    "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red/1. Protocolos de capa de red.md",
+    "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/3. Trama de enlace de datos.md",
+    "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/2. Métodos de acceso.md",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/1. Enlace de datos.md",
+    "CCNA/CCNA1 Introducción a las Redes/5. Sistemas númericos/2. Numeración hexadecimal.md",
     "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos",
     "CCNA/CCNA1 Introducción a las Redes/5. Sistemas númericos",
