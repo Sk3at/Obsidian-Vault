@@ -1,5 +1,4 @@
 ![[Pasted image 20231109170654.png]]
-
 Realizamos un primer escaneo de forma agresiva para verificar que puertos se encuentran abiertos
 ![[Pasted image 20231109173718.png]]
 El resultado fue que el puerto 22 y el puerto 10000 están abiertos, así que realizamos un escaneo con enumeración de versión.
