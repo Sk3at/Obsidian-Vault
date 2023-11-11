@@ -1,5 +1,3 @@
-
-Windows (en metasploit)
 getuid = server username
 sysinfo =informacion del sistema (en metaslpoit dentro de windows informacion de meterpreter x86/x64)
 ps -S explorer.exe = buscar el proceso explorer.exe
@@ -14,3 +12,6 @@ dir C:\\ flag /s = buscamos de forma recursiva en todo C: por el archivo flag
 wfuzz -u http://IP/direcotorios/FUZZ.extension -w /usr/share/dirbuster/wordlists/directory-list-2.3-medium.txt -c --hc 404
 steghide extract --sf archivo.jpg
 file para ver de que tipo es un archivo
+
+
+find / -perm -u=s -type f 2>/dev/null
