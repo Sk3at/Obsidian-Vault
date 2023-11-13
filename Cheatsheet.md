@@ -15,3 +15,6 @@ file para ver de que tipo es un archivo
 
 
 find / -perm -u=s -type f 2>/dev/null
+exiftool para ver metadatos de una imagen
+strings nos trae los datos del archivo
+sudo -u#-1 /usr/bin/vi /home/gwendoline/user.txt
