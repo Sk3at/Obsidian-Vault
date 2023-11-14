@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tryhackme/CTFs/Medium/Biohazard.md",
+                "file": "Tryhackme/CTFs/Easy/Probe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tryhackme/CTFs/Medium/Biohazard.md",
+                "file": "Tryhackme/CTFs/Easy/Probe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tryhackme/CTFs/Medium/Biohazard.md",
+                "file": "Tryhackme/CTFs/Easy/Probe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tryhackme/CTFs/Medium/Biohazard.md"
+                "file": "Tryhackme/CTFs/Easy/Probe.md"
               }
             }
           },
@@ -156,8 +156,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "af7cea3bdcdeef6c",
+  "active": "9794d1432e17f37a",
   "lastOpenFiles": [
+    "Tryhackme/Images/Pasted image 20231113215901.png",
+    "Tryhackme/Images/Pasted image 20231113215830.png",
+    "Tryhackme/Images/Pasted image 20231113215738.png",
+    "Tryhackme/Images/Pasted image 20231113215640.png",
+    "Tryhackme/Images/Pasted image 20231113215605.png",
+    "Tryhackme/Images/Pasted image 20231113215125.png",
+    "Tryhackme/Images/Pasted image 20231113214953.png",
+    "Tryhackme/Images/Pasted image 20231113205856.png",
+    "Tryhackme/Images/Pasted image 20231113205408.png",
+    "Tryhackme/Images/Pasted image 20231113205221.png",
+    "Tryhackme/CTFs/Medium/4. Biohazard.md",
+    "Tryhackme/CTFs/Easy/Probe.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/2. Buscando contraseñas en los archivos de configuracion.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md",
     "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/6. SAMBA 3.md",
@@ -168,18 +180,8 @@
     "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/5. SQL/3. MSSQL Nmap Scripts.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/2. Bypass UAC con UACMe.md",
     "INE eJPTv2/Images/Pasted image 20231113001435.png",
-    "INE eJPTv2/Images/Pasted image 20231113001126.png",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales",
-    "INE eJPTv2/Images/Pasted image 20231112210321.png",
-    "INE eJPTv2/Images/Pasted image 20231112210303.png",
-    "INE eJPTv2/Images/Pasted image 20231112210217.png",
-    "INE eJPTv2/Images/Pasted image 20231112210104.png",
-    "INE eJPTv2/Images/Pasted image 20231112210007.png",
-    "INE eJPTv2/Images/Pasted image 20231112205958.png",
-    "INE eJPTv2/Images/Pasted image 20231112205912.png",
-    "INE eJPTv2/Images/Pasted image 20231112205857.png",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
-    "Tryhackme/CTFs/Medium/Biohazard.md",
     "Tryhackme/CTFs/Easy/7. Source.md",
     "Tryhackme/CTFs/Easy/8. GamingServer.md",
     "Tryhackme/CTFs/Easy/6. Year of the Rabbit.md",
@@ -195,8 +197,6 @@
     "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4",
     "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/Introducción al Reconocimiento.md",
     "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/7. SAMBA Ataque por Diccionario.md",
-    "Tryhackme/CTFs/Easy/5. IDE.md",
-    "Tryhackme/CTFs/Easy/Lian_Yu (tw) Pending WRITEUP.md",
     "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion",
     "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos",
