@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f16afca786f58fa5",
+        "id": "0fd848be9be42ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "af7cea3bdcdeef6c",
+            "id": "4353ff91e79a0e47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tryhackme/CTFs/Easy/Probe.md",
+                "file": "Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tryhackme/CTFs/Easy/Probe.md",
+                "file": "Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tryhackme/CTFs/Easy/Probe.md",
+                "file": "Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tryhackme/CTFs/Easy/Probe.md"
+                "file": "Cheatsheet.md"
               }
             }
           },
@@ -148,55 +148,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "9794d1432e17f37a",
   "lastOpenFiles": [
-    "Tryhackme/Images/Pasted image 20231113215901.png",
-    "Tryhackme/Images/Pasted image 20231113215830.png",
-    "Tryhackme/Images/Pasted image 20231113215738.png",
-    "Tryhackme/Images/Pasted image 20231113215640.png",
-    "Tryhackme/Images/Pasted image 20231113215605.png",
-    "Tryhackme/Images/Pasted image 20231113215125.png",
-    "Tryhackme/Images/Pasted image 20231113214953.png",
-    "Tryhackme/Images/Pasted image 20231113205856.png",
-    "Tryhackme/Images/Pasted image 20231113205408.png",
-    "Tryhackme/Images/Pasted image 20231113205221.png",
-    "Tryhackme/CTFs/Medium/4. Biohazard.md",
-    "Tryhackme/CTFs/Easy/Probe.md",
+    "CCNA/CCNA1 Introducción a las Redes/11. Asignacion de direcciones IPv6",
+    "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/3. Tipos de direcciones IPv4.md",
+    "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/4. Segmentación de la red.md",
+    "INE eJPTv2/Images/Pasted image 20231114031735.png",
+    "INE eJPTv2/Images/Pasted image 20231114031404.png",
+    "CCNA/Images/Pasted image 20231114031348.png",
+    "CCNA/Images/Pasted image 20231114031337.png",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/2. Buscando contraseñas en los archivos de configuracion.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/6. SAMBA 3.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/5. SAMBA 2.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/4. SAMBA 1.md",
     "Cheatsheet.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/1. Hashes de contraseñas de Windows.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/5. SQL/3. MSSQL Nmap Scripts.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/2. Bypass UAC con UACMe.md",
-    "INE eJPTv2/Images/Pasted image 20231113001435.png",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
-    "Tryhackme/CTFs/Easy/7. Source.md",
-    "Tryhackme/CTFs/Easy/8. GamingServer.md",
-    "Tryhackme/CTFs/Easy/6. Year of the Rabbit.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/1. Explotando Windows/6. AutoBlue-MS17-010.md",
-    "Tryhackme/CTFs/Easy/3. RootMe.md",
-    "Tryhackme/CTFs/Easy/1. Bounty Hacker.md",
-    "Tryhackme/CTFs/Medium/3. Wonderland.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/1. Transferencia de zona DNS.md",
     "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/3. Escaneo de puertos con Nmap.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/2. Descubrimiento de hosts.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/1. Transferencia de zona DNS.md",
+    "Tryhackme/CTFs/Easy/Probe.md",
+    "Tryhackme/CTFs/Easy/8. GamingServer.md",
+    "CCNA/Images/Pasted image 20231114021213.png",
+    "CCNA/Images/Pasted image 20231113214953.png.md",
+    "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/2. Unidifusion, Multidifusion y Difusion.md",
+    "CCNA/Images/Pasted image 20231114022844.png",
+    "CCNA/Images/Pasted image 20231114021845.png",
     "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/1. Estructura IPv4.md",
+    "Tryhackme/Images/Pasted image 20231112194758.png",
+    "Tryhackme/Images/Pasted image 20231112194948.png",
+    "Tryhackme/Images/Pasted image 20231113215830.png",
+    "Tryhackme/CTFs/Easy/Lian_Yu (tw) Pending WRITEUP.md",
+    "Tryhackme/CTFs/Medium/4. Biohazard.md",
+    "Tryhackme/CTFs/Easy/7. Source.md",
+    "Tryhackme/CTFs/Easy/6. Year of the Rabbit.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/1. Hashes de contraseñas de Windows.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales",
     "CCNA/CCNA1 Introducción a las Redes/9. Configuraciòn bàsica de un Router/1. Configurando el Router.md",
-    "CCNA/CCNA1 Introducción a las Redes/9. Configuraciòn bàsica de un Router",
     "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4",
+    "Tryhackme/CTFs/Easy/Year of the Rabbit.md",
+    "CCNA/CCNA1 Introducción a las Redes/9. Configuraciòn bàsica de un Router",
+    "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion/4. Deteccion de vecinos IPv6 - ND.md",
+    "Tryhackme/CTFs/Easy/5. IDE.md",
     "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/Introducción al Reconocimiento.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/7. SAMBA Ataque por Diccionario.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
+    "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion/3. Problemas de seguridad ARP.md",
     "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion",
     "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos",
