@@ -11,11 +11,15 @@
             "id": "4353ff91e79a0e47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cheatsheet.md",
                 "mode": "source",
                 "source": false
+=======
+                "file": "Pasted image 20231111054522.png"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cheatsheet.md",
+=======
+                "file": "Pasted image 20231111054522.png",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cheatsheet.md",
+=======
+                "file": "Pasted image 20231111054522.png",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cheatsheet.md"
+=======
+                "file": "Pasted image 20231111054522.png"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -158,6 +174,7 @@
   },
   "active": "9794d1432e17f37a",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "CCNA/CCNA1 Introducción a las Redes/11. Asignacion de direcciones IPv6",
     "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/3. Tipos de direcciones IPv4.md",
     "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/4. Segmentación de la red.md",
@@ -167,6 +184,13 @@
     "CCNA/Images/Pasted image 20231114031337.png",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/2. Buscando contraseñas en los archivos de configuracion.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md",
+=======
+    "Pasted image 20231111053931.png",
+    "Pasted image 20231111052624.png",
+    "Pasted image 20231111052310.png",
+    "Pasted image 20231111051651.png",
+    "Pasted image 20231111052052.png",
+>>>>>>> Stashed changes
     "Cheatsheet.md",
     "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/3. Escaneo de puertos con Nmap.md",
     "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/2. Descubrimiento de hosts.md",
@@ -179,6 +203,7 @@
     "CCNA/Images/Pasted image 20231114022844.png",
     "CCNA/Images/Pasted image 20231114021845.png",
     "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/1. Estructura IPv4.md",
+<<<<<<< Updated upstream
     "Tryhackme/Images/Pasted image 20231112194758.png",
     "Tryhackme/Images/Pasted image 20231112194948.png",
     "Tryhackme/Images/Pasted image 20231113215830.png",
@@ -190,6 +215,15 @@
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales",
     "CCNA/CCNA1 Introducción a las Redes/9. Configuraciòn bàsica de un Router/1. Configurando el Router.md",
     "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4",
+=======
+    "Pasted image 20231111054522.png",
+    "CCNA/CCNA1 Introducción a las Redes/9. Configuraciòn bàsica de un Router/1. Configurando el Router.md",
+    "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4",
+    "CCNA/Images/Pasted image 20231111024147.png",
+    "CCNA/Images/Pasted image 20231111023101.png",
+    "CCNA/Images/Pasted image 20231111022400.png",
+    "CCNA/Images/Pasted image 20231111022243.png",
+>>>>>>> Stashed changes
     "Tryhackme/CTFs/Easy/Year of the Rabbit.md",
     "CCNA/CCNA1 Introducción a las Redes/9. Configuraciòn bàsica de un Router",
     "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion/4. Deteccion de vecinos IPv6 - ND.md",
