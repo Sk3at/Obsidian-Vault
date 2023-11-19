@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
+                "file": "Tryhackme/CTFs/Easy/Agent T (tw) Pending WRITEUP.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arp",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
+                "file": "Tryhackme/CTFs/Easy/Agent T (tw) Pending WRITEUP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
+                "file": "Tryhackme/CTFs/Easy/Agent T (tw) Pending WRITEUP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md"
+                "file": "Tryhackme/CTFs/Easy/Agent T (tw) Pending WRITEUP.md"
               }
             }
           },
@@ -156,53 +156,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9794d1432e17f37a",
+  "active": "af7cea3bdcdeef6c",
   "lastOpenFiles": [
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/2. Buscando contraseñas en los archivos de configuracion.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md",
-    "CCNA/CCNA1 Introducción a las Redes/11. Asignacion de direcciones IPv6/1.Direccionamiento Dinámico para GUA IPv6.md",
-    "CCNA/Images/Pasted image 20231117015552.png",
-    "CCNA/Images/Pasted image 20231117015410.png",
-    "CCNA/Images/Pasted image 20231117015220.png",
-    "Tryhackme/CTFs/Easy/Agent T (tw) Pending WRITEUP.md",
-    "CCNA/CCNA1 Introducción a las Redes/11. Asignacion de direcciones IPv6",
     "Tryhackme/CTFs/Easy/Catch them all (tw) Pending WRITEUP.md",
+    "Tryhackme/CTFs/Easy/Agent T (tw) Pending WRITEUP.md",
     "Tryhackme/CTFs/Easy/Lian_Yu (tw) Pending WRITEUP.md",
+    "Tryhackme/CTFs/Easy/SimpleCTF (tw) Pending WRITEUP.md",
     "Tryhackme/CTFs/Easy/Probe.md",
-    "INE eJPTv2/Images/Pasted image 20231117013737.png",
-    "INE eJPTv2/Images/Pasted image 20231117013720.png",
-    "INE eJPTv2/Images/Pasted image 20231117013639.png",
-    "INE eJPTv2/Images/Pasted image 20231117013458.png",
-    "INE eJPTv2/Images/Pasted image 20231117013443.png",
-    "INE eJPTv2/Images/Pasted image 20231117013158.png",
-    "INE eJPTv2/Images/Pasted image 20231117012735.png",
-    "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/1. Estructura IPv4.md",
-    "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/2. Unidifusion, Multidifusion y Difusion.md",
-    "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/3. Tipos de direcciones IPv4.md",
-    "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4/4. Segmentación de la red.md",
+    "Tryhackme/CTFs/Easy/LazyAdmin.md",
+    "Tryhackme/CTFs/Easy/Dreaming Pending WRITEUP.md",
+    "Tryhackme/Images/Pasted image 20231119031421.png",
+    "Tryhackme/Images/Pasted image 20231119031246.png",
+    "Tryhackme/Images/Pasted image 20231119031135.png",
+    "Tryhackme/Images/Pasted image 20231119030948.png",
+    "Tryhackme/Images/Pasted image 20231119030829.png",
+    "Tryhackme/Images/Pasted image 20231119030757.png",
+    "Tryhackme/Images/Pasted image 20231119030719.png",
+    "Tryhackme/Images/Pasted image 20231119030233.png",
+    "Tryhackme/Images/Pasted image 20231119030043.png",
+    "Tryhackme/Images/Pasted image 20231119025345.png",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/6. Enumeración de subdominios.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/9. Contraseñas filtradas.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/4. Reconocimiento DNS.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/2. Reconocimiento con WHOIS.md",
+    "Tryhackme/CTFs/Easy/3. RootMe.md",
+    "Tryhackme/CTFs/Medium/2. Boiler.md",
+    "Tryhackme/CTFs/Medium/3. Wonderland.md",
     "Cheatsheet.md",
-    "Tryhackme/CTFs/Medium/Road.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/2. Linux/1. Explotando Linux",
+    "INE eJPTv2/2. Host & Network Penetration Testing/2. Linux",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/1. Explotando Windows/4. Explotando SMB con PsExec.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
+    "Tryhackme/CTFs/Medium/5. Road.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/File System Vulnerabilities.md",
     "Tryhackme/CTFs/Medium/Goldeneye.md",
-    "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion/2. ARP.md",
-    "Tryhackme/CTFs/Easy/6. Year of the Rabbit.md",
-    "Tryhackme/CTFs/Easy/9. Pickle Rick.md",
-    "Tryhackme/CTFs/Medium/4. Biohazard.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/6. SAMBA 3.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/5. SAMBA 2.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/4. SAMBA 1.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/1. Hashes de contraseñas de Windows.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/5. SQL/3. MSSQL Nmap Scripts.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/2. Bypass UAC con UACMe.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/1. Hashes de contraseñas de Windows.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales/2. Buscando contraseñas en los archivos de configuracion.md",
+    "CCNA/CCNA1 Introducción a las Redes/11. Asignacion de direcciones IPv6/1.Direccionamiento Dinámico para GUA IPv6.md",
+    "CCNA/CCNA1 Introducción a las Redes/11. Asignacion de direcciones IPv6",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Windows/3. Volcado de Credenciales",
     "CCNA/CCNA1 Introducción a las Redes/9. Configuraciòn bàsica de un Router",
     "CCNA/CCNA1 Introducción a las Redes/10. Asignacion de direcciones IPv4",
     "CCNA/CCNA1 Introducción a las Redes/8. Resolucion de Direccion",
     "CCNA/CCNA1 Introducción a las Redes/7. Capa de Red",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos",
-    "CCNA/CCNA1 Introducción a las Redes/5. Sistemas númericos",
-    "CCNA/CCNA1 Introducción a las Redes/4. Capa Fisica",
-    "CCNA/CCNA1 Introducción a las Redes/3. Protocolos y Modelos"
+    "CCNA/CCNA1 Introducción a las Redes/5. Sistemas númericos"
   ]
 }

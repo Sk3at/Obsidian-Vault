@@ -1,6 +1,7 @@
-METASPLOIT
+
 getuid = server username
 sysinfo =informacion del sistema (en metaslpoit dentro de windows informacion de meterpreter x86/x64)
+pgrep lsass = buscar id de lsass 
 ps -S explorer.exe = buscar el proceso explorer.exe
 migrate PID = seleccionamos el proceso de explorer
 getsystem = para elevar privilegios
