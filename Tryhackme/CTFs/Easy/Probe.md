@@ -17,7 +17,7 @@ Vemos que se encontró un wordpress
 ![[Pasted image 20231113215738.png]]
 Por lo que lanzamos un wpscan en esa url
 ![[Pasted image 20231113215830.png]]
-El cual nos arroja informacion sobre la version de wordpress en uso, luego lanzamos uno nuevo para enumerar usuarios
+El cual nos arroja informacion sobre la versión de wordpress en uso, luego lanzamos uno nuevo para enumerar usuarios
 ![[Pasted image 20231113215901.png]]
 El cual nos devuelve el usuario de wp.
 En el escaneo con nikto se realiza la prueba de vulnerabilidad de OSVDB-3092 y se nos devuelve que el archivo es license.txt

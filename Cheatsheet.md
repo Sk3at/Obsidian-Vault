@@ -31,7 +31,7 @@ steghide extract --sf archivo.jpg > podemos ver si tiene archivo con info
 strings nos trae los datos del archivo
 file para ver de que tipo es un archivo
 find / -perm -u=s -type f 2>/dev/null
-
+binwalk -e ARCHIVO > nos permite extraer cualquier dato del archivo
 
 sudo -u#-1 /usr/bin/vi /home/gwendoline/user.txt
 
@@ -50,7 +50,7 @@ ESTABILIZAR TERMINAAAAAAAAAAAAAAL
 	export TERM=xterm
 
 
-REVERSE SHELL SCRIPTS EN PYTHON
+REVERSE SHELL SCRIPT PYTHON
 	import socket
 	import os
 	import subprocess

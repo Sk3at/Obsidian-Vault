@@ -11,7 +11,7 @@ Al revisar los archivos encontramos en la imagen datos adjuntos, así que los ex
 ![](../../Images/Pasted%20image%2020231120014728.png)
 Al extraerlos notamos que están cifrados
 Para continuar desde aquí aplicamos un poco de ingeniería social y encontramos en el git del creador del CTF un archivo (diccionario) llamado log pose (este en la serie es utilizado por los personajes para orientarse a destino)
-![](../../../Pasted%20image%2020231127191452.png)
+![](../../Images/Pasted%20image%2020231127191452.png)
 Al utilizar gobuster en un principio no encontramos nada, pero luego especificamos extensiones de archivos.
-![](../../../Pasted%20image%2020231127193407.png)
-![](../../../Pasted%20image%2020231127193447.png)
+![](../../Images/Pasted%20image%2020231127193407.png)
+![](../../Images/Pasted%20image%2020231127193447.png)
