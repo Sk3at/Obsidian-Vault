@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/4. Volcado de contraseñas Linux.md",
+                "file": "Tryhackme/CTFs/Medium/Blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/4. Volcado de contraseñas Linux.md",
+                "file": "Tryhackme/CTFs/Medium/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/4. Volcado de contraseñas Linux.md",
+                "file": "Tryhackme/CTFs/Medium/Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/4. Volcado de contraseñas Linux.md"
+                "file": "Tryhackme/CTFs/Medium/Blog.md"
               }
             }
           },
@@ -156,8 +156,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9794d1432e17f37a",
+  "active": "95e69d780993234f",
   "lastOpenFiles": [
+    "Cheatsheet.md",
+    "Tryhackme/CTFs/Medium/Blog.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/Metasploit Framework (MSF)/1. Introducción a MSF.md",
+    "INE eJPTv2/Images/Pasted image 20231204112440.png",
+    "INE eJPTv2/Images/Pasted image 20231204112232.png",
+    "INE eJPTv2/Images/Pasted image 20231204112151.png",
+    "INE eJPTv2/Images/Pasted image 20231204111931.png",
+    "Tryhackme/CTFs/Easy/Brute It (tw) PW.md",
+    "Tryhackme/CTFs/Easy/Probe.md",
+    "Tryhackme/CTFs/Easy/Lian_Yu (tw) Pending WRITEUP.md",
+    "Tryhackme/CTFs/Easy/Dreaming Pending  (tw) WRITEUP.md",
+    "Tryhackme/CTFs/Medium/8. Mindgames.md",
+    "NUWE/Cyberhack2077.md",
+    "NUWE",
+    "Tryhackme/CTFs/Easy/Startup (tw) PW.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/2. Cronjobs.md",
+    "Tryhackme/CTFs/Medium/3. Wonderland.md",
+    "Tryhackme/CTFs/Easy/8. GamingServer.md",
+    "Tryhackme/CTFs/Easy/4. Tomghost.md",
+    "Tryhackme/CTFs/Medium/Goldeneye.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/3. Escaneo de puertos con Nmap.md",
+    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/4. SSH/1. Recon SSH.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/4. Volcado de contraseñas Linux.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/Metasploit Framework (MSF)",
     "INE eJPTv2/2. Host & Network Penetration Testing/2. Ataques basados en la red",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas",
@@ -167,42 +190,19 @@
     "INE eJPTv2/Images/Pasted image 20231201121353.png",
     "INE eJPTv2/Images/Pasted image 20231201121325.png",
     "INE eJPTv2/Images/Pasted image 20231201121146.png",
-    "INE eJPTv2/Images/Pasted image 20231201120909.png",
-    "INE eJPTv2/Images/Pasted image 20231201120742.png",
-    "INE eJPTv2/Images/Pasted image 20231201120630.png",
-    "INE eJPTv2/Images/Pasted image 20231201120527.png",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/3. Explotando Binarios SUID.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/4. Volcado de contraseñas Linux.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/2. Cronjobs.md",
     "Tryhackme/CTFs/Easy/Thompson (tw) PW.md",
-    "Tryhackme/CTFs/Medium/Mindgames.md",
-    "Cheatsheet.md",
     "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/5. SAMBA 2.md",
-    "Tryhackme/CTFs/Easy/Probe.md",
     "Tryhackme/CTFs/Medium/7. Watcher.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/1. Exploits de Kernel de Linux.md",
     "CCNA/CCNA1 Introducción a las Redes/14. Capa de Aplicación/3. DNS.md",
     "CCNA/CCNA1 Introducción a las Redes/14. Capa de Aplicación/2. Protocolos de correo electrónico.md",
     "CCNA/CCNA1 Introducción a las Redes/14. Capa de Aplicación/1. Aplicación, presentación y sesión.md",
     "CCNA/CCNA1 Introducción a las Redes/14. Capa de Aplicación",
-    "Tryhackme/CTFs/Medium/4. Biohazard.md",
-    "CCNA/CCNA1 Introducción a las Redes/13. Capa de Transporte/6. Comunicación UDP.md",
-    "CCNA/CCNA1 Introducción a las Redes/13. Capa de Transporte/5. Confiabilidad y control de flujo.md",
-    "CCNA/CCNA1 Introducción a las Redes/13. Capa de Transporte/4. Comunicación TCP.md",
-    "CCNA/CCNA1 Introducción a las Redes/13. Capa de Transporte/3. UDP.md",
-    "CCNA/CCNA1 Introducción a las Redes/13. Capa de Transporte/2. TCP.md",
-    "CCNA/CCNA1 Introducción a las Redes/13. Capa de Transporte/1. Transporte de datos.md",
-    "CCNA/CCNA1 Introducción a las Redes/12. ICMP/2. Traceroute.md",
-    "CCNA/CCNA1 Introducción a las Redes/12. ICMP/1. Mensajes ICMP.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/1. Explotando Windows/7. WinRM.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/1. Explotando Windows/6. AutoBlue-MS17-010.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/1. Explotando Windows/5. Servicio RDP Inseguro.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux",
     "CCNA/CCNA1 Introducción a las Redes/13. Capa de Transporte",
     "CCNA/CCNA1 Introducción a las Redes/12. ICMP",
     "CCNA/CCNA1 Introducción a las Redes/11. Asignación de direcciones IPv6/Sin título",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/1. Explotando Linux",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux",
-    "CCNA/CCNA1 Introducción a las Redes/11. Asignación de direcciones IPv6"
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/1. Explotando Linux"
   ]
 }
