@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/2. Configuracion de puertos de un Switch.md",
+                "file": "Tryhackme/CTFs/Easy/5. IDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pkex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/2. Configuracion de puertos de un Switch.md",
+                "file": "Tryhackme/CTFs/Easy/5. IDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/2. Configuracion de puertos de un Switch.md",
+                "file": "Tryhackme/CTFs/Easy/5. IDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/2. Configuracion de puertos de un Switch.md"
+                "file": "Tryhackme/CTFs/Easy/5. IDE.md"
               }
             }
           },
@@ -156,31 +157,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9794d1432e17f37a",
+  "active": "95e69d780993234f",
   "lastOpenFiles": [
-    "CCNA/Images/Pasted image 20231204225145.png",
-    "CCNA/Images/Pasted image 20231204224850.png",
-    "CCNA/Images/Pasted image 20231204224816.png",
-    "CCNA/Images/Pasted image 20231204224703.png",
-    "CCNA/Images/Pasted image 20231204224322.png",
-    "CCNA/Images/Pasted image 20231204224301.png",
-    "CCNA/Images/Pasted image 20231204224030.png",
-    "CCNA/Images/Pasted image 20231204224025.png",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/File System Vulnerabilities.md",
+    "Tryhackme/CTFs/Easy/6. Year of the Rabbit.md",
+    "Cheatsheet.md",
+    "Tryhackme/CTFs/Easy/SimpleCTF (tw) Pending WRITEUP.md",
+    "Pasted image 20231205123127.png",
+    "Pasted image 20231205123043.png",
+    "Pasted image 20231205122624.png",
+    "Pasted image 20231205121858.png",
+    "Pasted image 20231205120652.png",
+    "Pasted image 20231205120531.png",
+    "Pasted image 20231205120423.png",
+    "Pasted image 20231205120155.png",
+    "Pasted image 20231205120019.png",
+    "Pasted image 20231205115813.png",
+    "Tryhackme/CTFs/Easy/Brute It (tw) PW.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/Metasploit Framework (MSF)/1. Introducción a MSF.md",
+    "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/2. Configuracion de puertos de un Switch.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/File System Vulnerabilities.md",
     "CCNA/CCNA1 Introducción a las Redes/6. Capa de enlace de datos/1. Enlace de datos.md",
     "CCNA/CCNA1 Introducción a las Redes/4. Capa Fisica/1. Proposito y caracteristicas.md",
     "CCNA/CCNA1 Introducción a las Redes/3. Protocolos y Modelos/1. Protocolos, modelos y estandares.md",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/2. Configuracion de puertos de un Switch.md",
     "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/1. Configuracion Inicial de un Switch.md",
-    "CCNA/Images/Pasted image 20231204210036.png",
-    "CCNA/Images/Pasted image 20231204205931.png",
-    "CCNA/Images/Pasted image 20231204205846.png",
     "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos",
     "Tryhackme/CTFs/Medium/Blog.md",
     "CCNA/CCNA2 Switching, Router y Wireless Essentials",
-    "Cheatsheet.md",
-    "Tryhackme/CTFs/Easy/Brute It (tw) PW.md",
     "Tryhackme/CTFs/Easy/Probe.md",
     "Tryhackme/CTFs/Easy/Lian_Yu (tw) Pending WRITEUP.md",
     "Tryhackme/CTFs/Easy/Dreaming Pending  (tw) WRITEUP.md",
@@ -199,7 +201,6 @@
     "INE eJPTv2/2. Host & Network Penetration Testing/Metasploit Framework (MSF)",
     "INE eJPTv2/2. Host & Network Penetration Testing/2. Ataques basados en la red",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/3. Explotando Binarios SUID.md",
     "CCNA/CCNA1 Introducción a las Redes/14. Capa de Aplicación",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux",
     "CCNA/CCNA1 Introducción a las Redes/13. Capa de Transporte",
