@@ -15,3 +15,8 @@ Para continuar desde aquí aplicamos un poco de ingeniería social y encontramos
 Al utilizar gobuster en un principio no encontramos nada, pero luego especificamos extensiones de archivos.
 ![](../../Images/Pasted%20image%2020231127193407.png)
 ![](../../Images/Pasted%20image%2020231127193447.png)
+Al revisar el codigo fuente encontramos una imagen que parece tener un texto crifrado.
+![](../../Images/Pasted%20image%2020231210164502.png)
+![](../../Images/Pasted%20image%2020231210164510.png)
+La primera parte se encuentra en hexa, al decifrarla vemos lo siguiente:
+![](../../Images/Pasted%20image%2020231210164806.png)

