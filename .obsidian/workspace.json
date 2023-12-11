@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "80fbe0fb3be53077",
+        "id": "4da0f4bed94ecf50",
         "type": "tabs",
         "children": [
           {
-            "id": "95e69d780993234f",
+            "id": "cf96c88f80a0d9b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Keeper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b74521cec80753f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hack The Box/CTFs/Easy/Keeper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4492db3289ac7973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/1. Escaneo de puertos con modulos auxiliares.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/1. Escaneo de puertos con modulos auxiliares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/1. Escaneo de puertos con modulos auxiliares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md"
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/1. Escaneo de puertos con modulos auxiliares.md"
               }
             }
           },
@@ -181,27 +156,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4492db3289ac7973",
+  "active": "9794d1432e17f37a",
   "lastOpenFiles": [
+    "INE eJPTv2/Images/Pasted image 20231211203504.png",
+    "INE eJPTv2/Images/Pasted image 20231211203121.png",
+    "INE eJPTv2/Images/Pasted image 20231211203040.png",
+    "INE eJPTv2/Images/Pasted image 20231211202958.png",
+    "INE eJPTv2/Images/Pasted image 20231211202913.png",
+    "INE eJPTv2/Images/Pasted image 20231211202804.png",
+    "INE eJPTv2/Images/Pasted image 20231211202747.png",
+    "INE eJPTv2/Images/Pasted image 20231211202649.png",
+    "INE eJPTv2/Images/Pasted image 20231211202614.png",
+    "INE eJPTv2/Images/Pasted image 20231211202405.png",
+    "INE eJPTv2/Images/Pasted image 20231211201940.png",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro/2. Importar resultado de nmap a MSF.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/1. Escaneo de puertos con modulos auxiliares.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro/1. Introducción a MSF.md",
+    "Hack The Box/CTFs/Easy/Keeper.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/2. Buscando contraseñas en los archivos de configuracion.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/1. Hashes de contraseñas de Windows.md",
     "Tryhackme/CTFs/Medium/Mr Robot.md",
-    "Pasted image 20231210185216.png",
-    "Pasted image 20231210185139.png",
-    "Pasted image 20231210184954.png",
     "Tryhackme/CTFs/Medium/3. Wonderland.md",
     "Tryhackme/CTFs/Easy/3. RootMe.md",
-    "Pasted image 20231210184552.png",
     "Cheatsheet.md",
-    "Pasted image 20231210184355.png",
-    "Pasted image 20231210184002.png",
-    "Pasted image 20231210183942.png",
-    "Pasted image 20231210183915.png",
-    "Pasted image 20231210183903.png",
-    "Pasted image 20231210183856.png",
     "Tryhackme/CTFs/Medium/Blog.md",
     "Tryhackme/CTFs/Medium/One Piece (NO TERMINADA).md",
-    "Hack The Box/CTFs/Easy/Keeper.md",
     "Tryhackme/CTFs/Easy/Easy Peasy.md",
     "Hack The Box/CTFs/Easy",
     "Hack The Box/Images",
@@ -219,15 +201,8 @@
     "Tryhackme/CTFs/Easy/14. SimpleCTF.md",
     "Tryhackme/CTFs/Easy/Startup (tw) PW.md",
     "CCNA/CCNA2 Switching, Router y Wireless Essentials/3. VLAN/1. Descripción general de VLAN.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/1. Introducción a MSF.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)",
     "CCNA/CCNA2 Switching, Router y Wireless Essentials/3. VLAN",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/2. Conceptos de switching/1. Reenvió de tramas.md",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/2. Conceptos de switching",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/5. Verificar redes conectadas directamente.md",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/4. Configuracion basica del Router.md",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos/3. Acceso Remoto Seguro Switch.md",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials"
+    "CCNA/CCNA2 Switching, Router y Wireless Essentials/2. Conceptos de switching"
   ]
 }
