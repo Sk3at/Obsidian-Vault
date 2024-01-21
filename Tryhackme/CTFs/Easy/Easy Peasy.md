@@ -30,7 +30,7 @@ En principio trate de enumerar la web especificando ese user agent pero no me ll
 El decrypt lo realize con https://md5hashing.net/hash/md5/
 ![](../../Images/Pasted%20image%2020231208115956.png)
 Al revisar nuevamente el código de la pagina vemos la flag 3
-![](../Medium/Pasted%20image%2020231208120140.png)
+![](../../Images/Pasted%20image%2020231208120140.png)
 Volviendo al directorio que encontramos, podemos descargar la imagen pequeña ya que parece sospechosa.
 ![](../../Images/Pasted%20image%2020231208120306.png)
 Utilizamos las herramientas exiftool para ver la metadata e intentamos extraer directamente con steghide, al hacerlo nos pidio una contraseña. la cual es la misma que conseguimos anteriormente con john.
