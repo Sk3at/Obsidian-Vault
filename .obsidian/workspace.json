@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/6. SMTP.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/6. SMTP.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/6. SMTP.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/6. SMTP.md"
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md"
               }
             }
           },
@@ -160,19 +160,21 @@
   },
   "active": "08fc869f76f89777",
   "lastOpenFiles": [
-    "Pasted image 20240121161726.png",
-    "Pasted image 20240121161330.png",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/5. MySQL.md",
+    "Hack The Box/CTFs/Easy/Keeper.md",
+    "INE eJPTv2/Images/Pasted image 20240121152235.png",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/6. SMTP.md",
-    "Pasted image 20240121155411.png",
-    "Pasted image 20240121155151.png",
-    "Pasted image 20240121154444.png",
-    "Pasted image 20240121154409.png",
-    "Pasted image 20240121153254.png",
-    "Pasted image 20240121152831.png",
-    "Pasted image 20240121152523.png",
-    "Pasted image 20240121152352.png",
-    "Pasted image 20240121152235.png",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks",
+    "INE eJPTv2/Images/Pasted image 20240121161726.png",
+    "INE eJPTv2/Images/Pasted image 20240121161330.png",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/5. MySQL.md",
+    "INE eJPTv2/Images/Pasted image 20240121155411.png",
+    "INE eJPTv2/Images/Pasted image 20240121155151.png",
+    "INE eJPTv2/Images/Pasted image 20240121154444.png",
+    "INE eJPTv2/Images/Pasted image 20240121154409.png",
+    "INE eJPTv2/Images/Pasted image 20240121153254.png",
+    "INE eJPTv2/Images/Pasted image 20240121152831.png",
+    "INE eJPTv2/Images/Pasted image 20240121152523.png",
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/4. WebServer.md",
     "Cheatsheet.md",
     "Tryhackme/CTFs/Easy/Startup (tw) PW.md",
@@ -183,7 +185,6 @@
     "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro/2. Importar resultado de nmap a MSF.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro/1. Introducción a MSF.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro",
-    "Hack The Box/CTFs/Easy/Keeper.md",
     "Hack The Box/CTFs/Easy",
     "Hack The Box/Images",
     "Hack The Box/CTFs",
@@ -202,9 +203,7 @@
     "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/3. SMBMap.md",
     "INE eJPTv2/1. Métodos de evaluación/2. Footprinting & Scanning/3. Ejercicios/Zenmap.md",
     "INE eJPTv2/1. Métodos de evaluación/2. Footprinting & Scanning/3. Ejercicios/Nmap Host Discovery.md",
-    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/3. Reconocimiento Activo/3. Escaneo de puertos con Nmap.md",
     "CCNA/CCNA2 Switching, Router y Wireless Essentials/2. Conceptos de switching",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials"
+    "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos"
   ]
 }
