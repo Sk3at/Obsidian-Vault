@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2105310333cfdbbb",
+        "id": "4da0f4bed94ecf50",
         "type": "tabs",
         "children": [
           {
-            "id": "08fc869f76f89777",
+            "id": "0ac0fa891c4b0991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 334.5
   },
   "right": {
     "id": "74bc81b6fc72898f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md"
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md"
               }
             }
           },
@@ -158,52 +158,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "08fc869f76f89777",
+  "active": "9794d1432e17f37a",
   "lastOpenFiles": [
-    "Hack The Box/CTFs/Easy/Keeper.md",
-    "INE eJPTv2/Images/Pasted image 20240121152235.png",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/6. SMTP.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks",
-    "INE eJPTv2/Images/Pasted image 20240121161726.png",
-    "INE eJPTv2/Images/Pasted image 20240121161330.png",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/5. MySQL.md",
-    "INE eJPTv2/Images/Pasted image 20240121155411.png",
-    "INE eJPTv2/Images/Pasted image 20240121155151.png",
-    "INE eJPTv2/Images/Pasted image 20240121154444.png",
-    "INE eJPTv2/Images/Pasted image 20240121154409.png",
-    "INE eJPTv2/Images/Pasted image 20240121153254.png",
-    "INE eJPTv2/Images/Pasted image 20240121152831.png",
-    "INE eJPTv2/Images/Pasted image 20240121152523.png",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/4. WebServer.md",
-    "Cheatsheet.md",
-    "Tryhackme/CTFs/Easy/Startup (tw) PW.md",
+    "INE eJPTv2/Images/Pasted image 20240210142336.png",
+    "INE eJPTv2/Images/Pasted image 20240210142235.png",
+    "INE eJPTv2/Images/Pasted image 20240210142139.png",
+    "INE eJPTv2/Images/Pasted image 20240210142130.png",
+    "INE eJPTv2/Images/Pasted image 20240210142032.png",
+    "INE eJPTv2/Images/Pasted image 20240210141846.png",
+    "INE eJPTv2/Images/Pasted image 20240210141709.png",
+    "INE eJPTv2/Images/Pasted image 20240210141616.png",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
+    "INE eJPTv2/Images/Pasted image 20240210141521.png",
+    "INE eJPTv2/Images/Pasted image 20240210141435.png",
+    "INE eJPTv2/Images/Pasted image 20240210141345.png",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/3. SSH.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/2. SAMBA.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/1. FTP.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/1. Windows/4. Apache Web Server.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/8. Recolección de emails.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/9. Contraseñas filtradas.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/6. Enumeración de subdominios.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/4. Reconocimiento DNS.md",
+    "INE eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/1. Reconocimiento Web & Footprinting.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/1. Windows/3. WinRM.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/1. Windows/2. MS17-010 SMB Vulnerable (Eternal Blue).md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/1. Explotando Windows/7. WinRM.md",
+    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/1. Explotando Windows/6. AutoBlue-MS17-010.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/1. Windows/1. Vulnerable HTTP File Server.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/3. SMB.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/2. FTP.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/3. Inyectando Payloads en ejecutables.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/1. Windows",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/2. Encoding Payloads.md",
+    "Cheatsheet.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/1. Escaneo de puertos con modulos auxiliares.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro/2. Importar resultado de nmap a MSF.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro/1. Introducción a MSF.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/4. WebServer.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/5. MySQL.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/6. SMTP.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks",
     "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion",
     "Hack The Box/CTFs/Easy",
     "Hack The Box/Images",
-    "Hack The Box/CTFs",
-    "Hack The Box",
-    "Tryhackme/CTFs/Easy/Thompson (tw) PW.md",
-    "Tryhackme/CTFs/Easy/SimpleCTF (tw) Pending WRITEUP.md",
-    "Tryhackme/CTFs/Easy/Lian_Yu (tw) Pending WRITEUP.md",
-    "Tryhackme/CTFs/Easy/Dreaming Pending  (tw) WRITEUP.md",
-    "Tryhackme/CTFs/Easy/Brute It (tw) PW.md",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/3. VLAN/1. Descripción general de VLAN.md",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/2. Conceptos de switching/1. Reenvió de tramas.md",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/3. VLAN",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/1. Introducción a MSF.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/5. SQL/1. MySQL.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/4. SAMBA 1.md",
-    "INE eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/3. SMBMap.md",
-    "INE eJPTv2/1. Métodos de evaluación/2. Footprinting & Scanning/3. Ejercicios/Zenmap.md",
-    "INE eJPTv2/1. Métodos de evaluación/2. Footprinting & Scanning/3. Ejercicios/Nmap Host Discovery.md",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/2. Conceptos de switching",
-    "CCNA/CCNA2 Switching, Router y Wireless Essentials/1. Configuracion basica de dispositivos"
+    "Sin título",
+    "Hack The Box/CTFs"
   ]
 }
