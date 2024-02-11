@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
+                "file": "Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
+                "file": "Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
+                "file": "Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md"
+                "file": "Cheatsheet.md"
               }
             }
           },
@@ -158,8 +158,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9794d1432e17f37a",
+  "active": "0ac0fa891c4b0991",
   "lastOpenFiles": [
+    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/1. Fundamentos",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion",
     "INE eJPTv2/Images/Pasted image 20240210142336.png",
     "INE eJPTv2/Images/Pasted image 20240210142235.png",
     "INE eJPTv2/Images/Pasted image 20240210142139.png",
@@ -168,10 +171,8 @@
     "INE eJPTv2/Images/Pasted image 20240210141846.png",
     "INE eJPTv2/Images/Pasted image 20240210141709.png",
     "INE eJPTv2/Images/Pasted image 20240210141616.png",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
     "INE eJPTv2/Images/Pasted image 20240210141521.png",
     "INE eJPTv2/Images/Pasted image 20240210141435.png",
-    "INE eJPTv2/Images/Pasted image 20240210141345.png",
     "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/3. SSH.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/2. SAMBA.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/1. FTP.md",
@@ -203,8 +204,6 @@
     "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro",
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion",
     "Hack The Box/CTFs/Easy",
-    "Hack The Box/Images",
-    "Sin título",
-    "Hack The Box/CTFs"
+    "Hack The Box/Images"
   ]
 }
