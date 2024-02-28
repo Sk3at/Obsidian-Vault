@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/7. Activando RDP.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/7. Activando RDP.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/7. Activando RDP.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/7. Activando RDP.md"
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md"
               }
             }
           },
@@ -158,31 +158,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "08fc869f76f89777",
+  "active": "9794d1432e17f37a",
   "lastOpenFiles": [
-    "Pasted image 20240227223628.png",
-    "Pasted image 20240227223510.png",
-    "Pasted image 20240227223419.png",
-    "Pasted image 20240227223309.png",
-    "Pasted image 20240227223022.png",
-    "Pasted image 20240227222817.png",
-    "Pasted image 20240227222725.png",
-    "Pasted image 20240227222653.png",
-    "Pasted image 20240227222637.png",
-    "Pasted image 20240227222534.png",
-    "Pasted image 20240227222508.png",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/6. Establecer Persistencia en Windows.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/7. Activando RDP.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/5. Pass-The-Hash con PsExec.md",
+    "INE eJPTv2/Images/Pasted image 20240228122022.png",
+    "INE eJPTv2/Images/Pasted image 20240228122000.png",
+    "INE eJPTv2/Images/Pasted image 20240228121931.png",
+    "INE eJPTv2/Images/Pasted image 20240228121849.png",
+    "INE eJPTv2/Images/Pasted image 20240228121737.png",
+    "INE eJPTv2/Images/Pasted image 20240228121716.png",
+    "INE eJPTv2/Images/Pasted image 20240228121648.png",
+    "INE eJPTv2/Images/Pasted image 20240228121507.png",
+    "INE eJPTv2/Images/Pasted image 20240228121438.png",
+    "INE eJPTv2/Images/Pasted image 20240228121133.png",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/1. Post Explotacion en Windows.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/2. Privilege Escalation - Bypassing UAC.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/3. Privilege Escalation - Token Impersonation.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/4. Volcado de Hashes con Mimikatz.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/5. Pass-The-Hash con PsExec.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/6. Establecer Persistencia en Windows.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/7. Activando RDP.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/1. Fundamentos/1. Meterpreter Fundamentals.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/1. Fundamentos/2. Mejorar una shell a meterpreter.md",
+    "INE eJPTv2/Images/Pasted image 20240227223628.png",
     "Cheatsheet.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/4. Volcado de Hashes con Mimikatz.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/3. Privilege Escalation - Token Impersonation.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/2. Privilege Escalation - Bypassing UAC.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion/1. Post Explotacion en Windows.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Mejorar una shell a meterpreter.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Windows Post Explotacion",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/1. Meterpreter Fundamentals.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion",
     "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/1. Windows/3. WinRM.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion",
     "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
@@ -201,7 +202,6 @@
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/6. SMTP.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks",
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/5. MySQL.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/4. WebServer.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion",
     "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro",
     "Hack The Box/CTFs/Easy",
