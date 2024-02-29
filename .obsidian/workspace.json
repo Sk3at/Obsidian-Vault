@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion/2. Escalar Privilegios Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "right": {
     "id": "74bc81b6fc72898f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion/2. Escalar Privilegios Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md",
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion/2. Escalar Privilegios Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md"
+                "file": "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion/2. Escalar Privilegios Linux.md"
               }
             }
           },
@@ -150,28 +151,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9794d1432e17f37a",
+  "active": "08fc869f76f89777",
   "lastOpenFiles": [
-    "INE eJPTv2/Images/Pasted image 20240228122022.png",
-    "INE eJPTv2/Images/Pasted image 20240228122000.png",
-    "INE eJPTv2/Images/Pasted image 20240228121931.png",
-    "INE eJPTv2/Images/Pasted image 20240228121849.png",
-    "INE eJPTv2/Images/Pasted image 20240228121737.png",
-    "INE eJPTv2/Images/Pasted image 20240228121716.png",
-    "INE eJPTv2/Images/Pasted image 20240228121648.png",
-    "INE eJPTv2/Images/Pasted image 20240228121507.png",
-    "INE eJPTv2/Images/Pasted image 20240228121438.png",
-    "INE eJPTv2/Images/Pasted image 20240228121133.png",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/1. Post Explotacion en Windows.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion/1. Post Explotacion en Linux.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion/2. Escalar Privilegios Linux.md",
+    "INE eJPTv2/Images/Pasted image 20240228214635.png",
+    "INE eJPTv2/Images/Pasted image 20240228214510.png",
+    "INE eJPTv2/Images/Pasted image 20240228214408.png",
+    "INE eJPTv2/Images/Pasted image 20240228214336.png",
+    "INE eJPTv2/Images/Pasted image 20240228214224.png",
+    "INE eJPTv2/Images/Pasted image 20240228214158.png",
+    "INE eJPTv2/Images/Pasted image 20240228214114.png",
+    "INE eJPTv2/Images/Pasted image 20240228214027.png",
+    "INE eJPTv2/Images/Pasted image 20240228213935.png",
+    "INE eJPTv2/Images/Pasted image 20240228213857.png",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/10. Pivoting.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/9. Limpiar Registro de Eventos Windows.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md",
+    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/1. Post Explotacion en Windows.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/2. Privilege Escalation - Bypassing UAC.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/3. Privilege Escalation - Token Impersonation.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/4. Volcado de Hashes con Mimikatz.md",
@@ -180,7 +186,6 @@
     "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/7. Activando RDP.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/1. Fundamentos/1. Meterpreter Fundamentals.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/1. Fundamentos/2. Mejorar una shell a meterpreter.md",
-    "INE eJPTv2/Images/Pasted image 20240227223628.png",
     "Cheatsheet.md",
     "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion",
@@ -198,13 +203,9 @@
     "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion/1. Windows",
     "INE eJPTv2/3. Metasploit Framework (MSF)/4. Explotacion",
     "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks/2. Encoding Payloads.md",
-    "Hack The Box/CTFs/Easy/Keeper.md",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/6. SMTP.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/3. Client-Side Attacks",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion/5. MySQL.md",
     "INE eJPTv2/3. Metasploit Framework (MSF)/2. Enumeracion",
     "INE eJPTv2/3. Metasploit Framework (MSF)/1. Intro",
-    "Hack The Box/CTFs/Easy",
-    "Hack The Box/Images"
+    "Hack The Box/CTFs/Easy"
   ]
 }
