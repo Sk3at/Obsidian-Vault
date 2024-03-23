@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "e7ce7ff454f78789",
+    "id": "4210c4f648a621a6",
     "type": "split",
     "children": [
       {
-        "id": "2105310333cfdbbb",
+        "id": "48bb22b2efcf2b54",
         "type": "tabs",
         "children": [
           {
-            "id": "08fc869f76f89777",
+            "id": "8c248c693243875e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/3. Netcat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1ec6e8432c050bc8",
+    "id": "5227f401c3abf7a6",
     "type": "split",
     "children": [
       {
-        "id": "092f1751e102b16f",
+        "id": "6ee9f55898189afc",
         "type": "tabs",
         "children": [
           {
-            "id": "9794d1432e17f37a",
+            "id": "a1229da38ea0951f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "fa76840ab00a4edf",
+            "id": "ebf95bc708cd1f15",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "4cd03de5cd23d508",
+            "id": "c68beb9d836b7b54",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "74bc81b6fc72898f",
+    "id": "d4e24b9c402c276b",
     "type": "split",
     "children": [
       {
-        "id": "409feda6b051d3d2",
+        "id": "7d4fe46e2a486d46",
         "type": "tabs",
         "children": [
           {
-            "id": "65033ffaee52b1c7",
+            "id": "79352866c60f5e5a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/3. Netcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +92,18 @@
             }
           },
           {
-            "id": "f265e83efeb452ce",
+            "id": "cc90430229619c1d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/3. Netcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9e37ca6ad7f4539d",
+            "id": "c2726a255033bbf3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,17 +114,7 @@
             }
           },
           {
-            "id": "b22a60d1c9f2046e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "INE eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/3. Netcat.md"
-              }
-            }
-          },
-          {
-            "id": "8d11eb21c67507ef",
+            "id": "418a08961832bc54",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -140,6 +123,14 @@
                 "showSearch": false,
                 "searchQuery": ""
               }
+            }
+          },
+          {
+            "id": "ef12c9589deb777e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]
@@ -151,61 +142,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "08fc869f76f89777",
-  "lastOpenFiles": [
-    "INE eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/2. Exploits Públicos & Exploits con SearchSploit.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/3. Netcat.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/1. Intro.md",
-    "Pasted image 20240302192504.png",
-    "Pasted image 20240302192449.png",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion/2. Escalar Privilegios Linux.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/3. Explotacion",
-    "INE eJPTv2/3. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion/3. Volcado de Hashes.md",
-    "INE eJPTv2/Images/Pasted image 20240229211608.png",
-    "INE eJPTv2/Images/Pasted image 20240229211549.png",
-    "INE eJPTv2/Images/Pasted image 20240229211447.png",
-    "INE eJPTv2/Images/Pasted image 20240229211111.png",
-    "INE eJPTv2/Images/Pasted image 20240229210905.png",
-    "INE eJPTv2/Images/Pasted image 20240229210758.png",
-    "INE eJPTv2/Images/Pasted image 20240229210514.png",
-    "INE eJPTv2/Images/Pasted image 20240229210404.png",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion/1. Post Explotacion en Linux.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/10. Pivoting.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/3. Linux Post Explotacion",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/9. Limpiar Registro de Eventos Windows.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/8. Windows Keyloggin.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/1. Post Explotacion en Windows.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/2. Privilege Escalation - Bypassing UAC.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/3. Privilege Escalation - Token Impersonation.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/4. Volcado de Hashes con Mimikatz.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/5. Pass-The-Hash con PsExec.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/6. Establecer Persistencia en Windows.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion/7. Activando RDP.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/1. Fundamentos/1. Meterpreter Fundamentals.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/1. Fundamentos/2. Mejorar una shell a meterpreter.md",
-    "Cheatsheet.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/3. Volcando hashes con Mimikatz.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion/2. Windows Post Explotacion",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/4. Explotacion/1. Windows/3. WinRM.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/5. Post Explotacion",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/4. Explotacion/2. Linux/4. SMTP.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/4. Explotacion/2. Linux/1. FTP.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/4. Explotacion/2. Linux/3. SSH.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/4. Explotacion/2. Linux/2. SAMBA.md",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/4. Explotacion/2. Linux",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/4. Explotacion/1. Windows",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/4. Explotacion",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/3. Client-Side Attacks",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/2. Enumeracion",
-    "INE eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/1. Intro"
-  ]
+  "active": "8c248c693243875e",
+  "lastOpenFiles": []
 }
