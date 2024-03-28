@@ -11,8 +11,12 @@
             "id": "8c248c693243875e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/1. Fundamentos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4e24b9c402c276b",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/1. Fundamentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/1. Fundamentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/1. Fundamentos.md"
+              }
             }
           }
         ]
@@ -151,5 +160,28 @@
     }
   },
   "active": "8c248c693243875e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20240328203619.png",
+    "Pasted image 20240328203544.png",
+    "Pasted image 20240328203415.png",
+    "Pasted image 20240328203238.png",
+    "Pasted image 20240328203047.png",
+    "Pasted image 20240328202808.png",
+    "Pasted image 20240328160454.png",
+    "Pasted image 20240328160147.png",
+    "Pasted image 20240328155659.png",
+    "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/1. Fundamentos.md",
+    "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters",
+    "Pasted image 20240323153218.png",
+    "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial",
+    "Pasted image 20240323152841.png",
+    "INE Learning/ICCA/1. Fundamentos de Cloud/1. Bases de Cloud/1. Que es Cloud.md",
+    "INE Learning/2. eCPPT",
+    "Cheatsheet.md",
+    "INE Learning/ICCA/1. Fundamentos de Cloud/1. Bases de Cloud",
+    "INE Learning/ICCA/1. Fundamentos de Cloud",
+    "INE Learning/ICCA/Images",
+    "INE Learning/ICCA",
+    "INE Learning"
+  ]
 }
