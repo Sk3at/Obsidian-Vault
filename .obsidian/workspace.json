@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4e24b9c402c276b",
@@ -159,22 +158,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8c248c693243875e",
+  "active": "a1229da38ea0951f",
   "lastOpenFiles": [
-    "Pasted image 20240328203619.png",
-    "Pasted image 20240328203544.png",
-    "Pasted image 20240328203415.png",
-    "Pasted image 20240328203238.png",
-    "Pasted image 20240328203047.png",
-    "Pasted image 20240328202808.png",
-    "Pasted image 20240328160454.png",
-    "Pasted image 20240328160147.png",
-    "Pasted image 20240328155659.png",
+    "INE Learning/2. eCPPT/Images",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329203145.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329203132.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329203028.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329203010.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329202834.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329202750.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329202321.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329202218.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329202102.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240329194707.png",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/1. Fundamentos.md",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters",
-    "Pasted image 20240323153218.png",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial",
-    "Pasted image 20240323152841.png",
     "INE Learning/ICCA/1. Fundamentos de Cloud/1. Bases de Cloud/1. Que es Cloud.md",
     "INE Learning/2. eCPPT",
     "Cheatsheet.md",
