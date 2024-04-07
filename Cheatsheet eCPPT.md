@@ -1,3 +1,9 @@
+INFO-GATHER
+whois [DOMINIO] > para la shell
+www.who.is º > para consultar en la web.
+host [DOMINO] > para ver direcciones IP
+dnsrecon -d [WEB] > ver registros DNS
+
 SCAN TARGET
 FASTSCAN: nmap -p- --open -sS -n -Pn --min-rate 5000 $target
 

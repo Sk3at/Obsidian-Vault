@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "48bb22b2efcf2b54",
+        "id": "c13f4e0532fe0c72",
         "type": "tabs",
         "children": [
           {
-            "id": "589de92d71e1e313",
+            "id": "6d75b9de65a01e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/2. Pentesting con Powershell (Empire).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9f474f5ea2162fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hack The Box/CTFs/Easy/Blue.md",
+                "file": "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dnsrec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Blue.md",
+                "file": "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Blue.md",
+                "file": "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Blue.md"
+                "file": "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md"
               }
             }
           }
@@ -171,8 +158,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a1229da38ea0951f",
+  "active": "6d75b9de65a01e6a",
   "lastOpenFiles": [
+    "Cheatsheet eCPPT.md",
+    "Cheatsheet eJPTv2.md",
+    "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
+    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/2. Reconocimiento con WHOIS.md",
+    "Pasted image 20240407045513.png",
+    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
+    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/1. Reconocimiento Web & Footprinting.md",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240407030028.png",
+    "INE Learning/2. eCPPT/Images/Pasted image 20240407024917.png",
+    "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering",
+    "INE Learning/2. eCPPT/2. Web Application Attacks",
     "Hack The Box/Images/Pasted image 20240406212734.png",
     "Hack The Box/CTFs/Easy/Jerry.md",
     "Hack The Box/CTFs/Easy/Blue.md",
@@ -184,14 +182,8 @@
     "Hack The Box/Images/Pasted image 20240406210015.png",
     "Hack The Box/Images/Pasted image 20240406205919.png",
     "Hack The Box/Images/Pasted image 20240406205840.png",
-    "Cheatsheet eCPPT.md",
-    "Cheatsheet eJPTv2.md",
     "Hack The Box/Images/Pasted image 20240406204632.png",
     "Hack The Box/Images/Pasted image 20240406204423.png",
-    "Hack The Box/Images/Pasted image 20240406204411.png",
-    "Hack The Box/Images/Pasted image 20240406204349.png",
-    "Hack The Box/Images/Pasted image 20240406204331.png",
-    "Hack The Box/Images/Pasted image 20240406204319.png",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/6. SAMBA 3.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/4. SAMBA 1.md",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/2. Pentesting con Powershell (Empire).md",
@@ -205,8 +197,6 @@
     "INE Learning/2. eCPPT",
     "INE Learning/ICCA/1. Fundamentos de Cloud/1. Bases de Cloud",
     "INE Learning/ICCA/1. Fundamentos de Cloud",
-    "INE Learning/ICCA/Images",
-    "INE Learning/ICCA",
-    "INE Learning"
+    "INE Learning/ICCA/Images"
   ]
 }
