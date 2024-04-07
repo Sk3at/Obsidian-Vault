@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9f474f5ea2162fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hack The Box/CTFs/Easy/Blue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4e24b9c402c276b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/2. Pentesting con Powershell (Empire).md",
+                "file": "Hack The Box/CTFs/Easy/Blue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/2. Pentesting con Powershell (Empire).md",
+                "file": "Hack The Box/CTFs/Easy/Blue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/2. Pentesting con Powershell (Empire).md"
+                "file": "Hack The Box/CTFs/Easy/Blue.md"
               }
             }
           }
@@ -159,23 +171,33 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "589de92d71e1e313",
+  "active": "a1229da38ea0951f",
   "lastOpenFiles": [
-    "Pasted image 20240403193600.png",
-    "Pasted image 20240403193023.png",
-    "Pasted image 20240403193006.png",
-    "Pasted image 20240403192545.png",
+    "Hack The Box/Images/Pasted image 20240406212734.png",
+    "Hack The Box/CTFs/Easy/Jerry.md",
+    "Hack The Box/CTFs/Easy/Blue.md",
+    "Hack The Box/Images/Pasted image 20240406212351.png",
+    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/2. Exploits Públicos & Exploits con SearchSploit.md",
+    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
+    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/3. Client-Side Attacks/2. Encoding Payloads.md",
+    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/1. Explotando Windows/6. AutoBlue-MS17-010.md",
+    "Hack The Box/Images/Pasted image 20240406210015.png",
+    "Hack The Box/Images/Pasted image 20240406205919.png",
+    "Hack The Box/Images/Pasted image 20240406205840.png",
     "Cheatsheet eCPPT.md",
-    "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/2. Pentesting con Powershell (Empire).md",
-    "Pasted image 20240403192232.png",
-    "Pasted image 20240403192138.png",
-    "Pasted image 20240403191924.png",
-    "Pasted image 20240403191541.png",
     "Cheatsheet eJPTv2.md",
+    "Hack The Box/Images/Pasted image 20240406204632.png",
+    "Hack The Box/Images/Pasted image 20240406204423.png",
+    "Hack The Box/Images/Pasted image 20240406204411.png",
+    "Hack The Box/Images/Pasted image 20240406204349.png",
+    "Hack The Box/Images/Pasted image 20240406204331.png",
+    "Hack The Box/Images/Pasted image 20240406204319.png",
+    "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/6. SAMBA 3.md",
+    "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/4. SAMBA 1.md",
+    "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/2. Pentesting con Powershell (Empire).md",
+    "Hack The Box/CTFs/Medium/Surveillance.md",
+    "Hack The Box/CTFs/Medium",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/1. Fundamentos Powershell.md",
-    "INE Learning/2. eCPPT/Images/Pasted image 20240331200108.png",
-    "INE Learning/2. eCPPT/Images/Pasted image 20240331195507.png",
-    "INE Learning/2. eCPPT/Images/Pasted image 20240331195346.png",
     "INE Learning/2. eCPPT/Images",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial",
