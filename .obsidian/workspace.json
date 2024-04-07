@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
+                "file": "Hack The Box/CTFs/Easy/Legacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
+                "file": "Hack The Box/CTFs/Easy/Legacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
+                "file": "Hack The Box/CTFs/Easy/Legacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md"
+                "file": "Hack The Box/CTFs/Easy/Legacy.md"
               }
             }
           }
@@ -158,32 +158,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6d75b9de65a01e6a",
+  "active": "a1229da38ea0951f",
   "lastOpenFiles": [
-    "Cheatsheet eCPPT.md",
+    "Hack The Box/Images/Pasted image 20240407195640.png",
+    "Hack The Box/Images/Pasted image 20240407195434.png",
+    "Hack The Box/Images/Pasted image 20240407195344.png",
+    "Hack The Box/Images/Pasted image 20240407195249.png",
+    "Hack The Box/Images/Pasted image 20240407194643.png",
+    "Hack The Box/CTFs/Easy/Netmon.md",
+    "Hack The Box/CTFs/Easy/Legacy.md",
+    "Hack The Box/Images/Pasted image 20240407193855.png",
+    "Hack The Box/Images/Pasted image 20240407193743.png",
+    "Hack The Box/Images/Pasted image 20240407193733.png",
+    "Hack The Box/Images/Pasted image 20240407193724.png",
+    "Hack The Box/Images/Pasted image 20240407193241.png",
+    "Hack The Box/Images/Pasted image 20240407193142.png",
     "Cheatsheet eJPTv2.md",
-    "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
-    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/2. Reconocimiento con WHOIS.md",
-    "Pasted image 20240407045513.png",
-    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
-    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/1. Reconocimiento Web & Footprinting.md",
-    "INE Learning/2. eCPPT/Images/Pasted image 20240407030028.png",
-    "INE Learning/2. eCPPT/Images/Pasted image 20240407024917.png",
-    "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering",
-    "INE Learning/2. eCPPT/2. Web Application Attacks",
-    "Hack The Box/Images/Pasted image 20240406212734.png",
+    "Hack The Box/CTFs/Easy/Keeper.md",
     "Hack The Box/CTFs/Easy/Jerry.md",
     "Hack The Box/CTFs/Easy/Blue.md",
-    "Hack The Box/Images/Pasted image 20240406212351.png",
+    "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
+    "Cheatsheet eCPPT.md",
+    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/2. Reconocimiento con WHOIS.md",
+    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
+    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/1. Reconocimiento Web & Footprinting.md",
+    "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering",
+    "INE Learning/2. eCPPT/2. Web Application Attacks",
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/2. Exploits Públicos & Exploits con SearchSploit.md",
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/3. Client-Side Attacks/2. Encoding Payloads.md",
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/1. Explotando Windows/6. AutoBlue-MS17-010.md",
-    "Hack The Box/Images/Pasted image 20240406210015.png",
-    "Hack The Box/Images/Pasted image 20240406205919.png",
-    "Hack The Box/Images/Pasted image 20240406205840.png",
-    "Hack The Box/Images/Pasted image 20240406204632.png",
-    "Hack The Box/Images/Pasted image 20240406204423.png",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/6. SAMBA 3.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/4. SAMBA 1.md",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/2. Pentesting con Powershell (Empire).md",
