@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Legacy.md",
+                "file": "Hack The Box/CTFs/Easy/Netmon.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dnsrec",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Legacy.md",
+                "file": "Hack The Box/CTFs/Easy/Netmon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Legacy.md",
+                "file": "Hack The Box/CTFs/Easy/Netmon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Legacy.md"
+                "file": "Hack The Box/CTFs/Easy/Netmon.md"
               }
             }
           }
@@ -158,27 +158,34 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a1229da38ea0951f",
+  "active": "6d75b9de65a01e6a",
   "lastOpenFiles": [
-    "Hack The Box/Images/Pasted image 20240407195640.png",
-    "Hack The Box/Images/Pasted image 20240407195434.png",
-    "Hack The Box/Images/Pasted image 20240407195344.png",
-    "Hack The Box/Images/Pasted image 20240407195249.png",
-    "Hack The Box/Images/Pasted image 20240407194643.png",
-    "Hack The Box/CTFs/Easy/Netmon.md",
     "Hack The Box/CTFs/Easy/Legacy.md",
-    "Hack The Box/Images/Pasted image 20240407193855.png",
-    "Hack The Box/Images/Pasted image 20240407193743.png",
-    "Hack The Box/Images/Pasted image 20240407193733.png",
-    "Hack The Box/Images/Pasted image 20240407193724.png",
-    "Hack The Box/Images/Pasted image 20240407193241.png",
-    "Hack The Box/Images/Pasted image 20240407193142.png",
-    "Cheatsheet eJPTv2.md",
     "Hack The Box/CTFs/Easy/Keeper.md",
     "Hack The Box/CTFs/Easy/Jerry.md",
     "Hack The Box/CTFs/Easy/Blue.md",
-    "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
+    "Hack The Box/CTFs/Easy/Bashed.md",
+    "Hack The Box/Images/Pasted image 20240408215519.png",
+    "Hack The Box/Images/Pasted image 20240408215420.png",
+    "Hack The Box/Images/Pasted image 20240408215128.png",
+    "Hack The Box/Images/Pasted image 20240408215113.png",
+    "Hack The Box/Images/Pasted image 20240408215107.png",
+    "Cheatsheet eJPTv2.md",
     "Cheatsheet eCPPT.md",
+    "Hack The Box/Images/Pasted image 20240408213621.png",
+    "Hack The Box/Images/Pasted image 20240408213538.png",
+    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/2. Cronjobs.md",
+    "Hack The Box/Images/Pasted image 20240408213142.png",
+    "Tryhackme/CTFs/Easy/Easy Peasy.md",
+    "Hack The Box/Images/Pasted image 20240408213135.png",
+    "Hack The Box/Images/Pasted image 20240408212426.png",
+    "Tryhackme/CTFs/Easy/3. RootMe.md",
+    "Tryhackme/CTFs/Medium/7. Watcher.md",
+    "Tryhackme/CTFs/Medium/3. Wonderland.md",
+    "Tryhackme/CTFs/Easy/2. Brooklyn Nine Nine.md",
+    "Tryhackme/CTFs/Easy/1. Bounty Hacker.md",
+    "Hack The Box/CTFs/Easy/Netmon.md",
+    "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/2. Reconocimiento con WHOIS.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/1. Reconocimiento Web & Footprinting.md",
@@ -190,14 +197,10 @@
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/1. Explotando Windows/6. AutoBlue-MS17-010.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/6. SAMBA 3.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/4. SAMBA 1.md",
-    "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/2. Pentesting con Powershell (Empire).md",
-    "Hack The Box/CTFs/Medium/Surveillance.md",
     "Hack The Box/CTFs/Medium",
-    "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters/1. Fundamentos Powershell.md",
     "INE Learning/2. eCPPT/Images",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial",
-    "INE Learning/ICCA/1. Fundamentos de Cloud/1. Bases de Cloud/1. Que es Cloud.md",
     "INE Learning/2. eCPPT",
     "INE Learning/ICCA/1. Fundamentos de Cloud/1. Bases de Cloud",
     "INE Learning/ICCA/1. Fundamentos de Cloud",
