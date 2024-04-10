@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Netmon.md",
+                "file": "Hack The Box/CTFs/Easy/Optimun.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Netmon.md",
+                "file": "Hack The Box/CTFs/Easy/Optimun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Netmon.md",
+                "file": "Hack The Box/CTFs/Easy/Optimun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Netmon.md"
+                "file": "Hack The Box/CTFs/Easy/Optimun.md"
               }
             }
           }
@@ -160,31 +160,37 @@
   },
   "active": "6d75b9de65a01e6a",
   "lastOpenFiles": [
+    "Hack The Box/CTFs/Easy/Devel.md",
+    "Hack The Box/CTFs/Easy/Optimun.md",
+    "Pasted image 20240409205557.png",
+    "Pasted image 20240409205414.png",
+    "Pasted image 20240409205337.png",
+    "Pasted image 20240409204955.png",
+    "Pasted image 20240409204938.png",
+    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/1. Hashes de contraseñas de Windows.md",
+    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/2. Escalada de Privilegios Windows/1. Exploits del Kernel Windows.md",
+    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
+    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/2. Escalada de Privilegios Windows/2. Bypass UAC con UACMe.md",
+    "Pasted image 20240409204546.png",
+    "Pasted image 20240409204500.png",
+    "Pasted image 20240409204355.png",
+    "Pasted image 20240409204307.png",
+    "Pasted image 20240409204102.png",
+    "Hack The Box/CTFs/Easy/Netmon.md",
     "Hack The Box/CTFs/Easy/Legacy.md",
     "Hack The Box/CTFs/Easy/Keeper.md",
     "Hack The Box/CTFs/Easy/Jerry.md",
     "Hack The Box/CTFs/Easy/Blue.md",
     "Hack The Box/CTFs/Easy/Bashed.md",
-    "Hack The Box/Images/Pasted image 20240408215519.png",
-    "Hack The Box/Images/Pasted image 20240408215420.png",
-    "Hack The Box/Images/Pasted image 20240408215128.png",
-    "Hack The Box/Images/Pasted image 20240408215113.png",
-    "Hack The Box/Images/Pasted image 20240408215107.png",
     "Cheatsheet eJPTv2.md",
     "Cheatsheet eCPPT.md",
-    "Hack The Box/Images/Pasted image 20240408213621.png",
-    "Hack The Box/Images/Pasted image 20240408213538.png",
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/2. Linux/2. Escalada de Privilegios Linux/2. Cronjobs.md",
-    "Hack The Box/Images/Pasted image 20240408213142.png",
     "Tryhackme/CTFs/Easy/Easy Peasy.md",
-    "Hack The Box/Images/Pasted image 20240408213135.png",
-    "Hack The Box/Images/Pasted image 20240408212426.png",
     "Tryhackme/CTFs/Easy/3. RootMe.md",
     "Tryhackme/CTFs/Medium/7. Watcher.md",
     "Tryhackme/CTFs/Medium/3. Wonderland.md",
     "Tryhackme/CTFs/Easy/2. Brooklyn Nine Nine.md",
     "Tryhackme/CTFs/Easy/1. Bounty Hacker.md",
-    "Hack The Box/CTFs/Easy/Netmon.md",
     "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering/1. Passive Information Gathering.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/2. Reconocimiento con WHOIS.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
@@ -192,11 +198,6 @@
     "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering",
     "INE Learning/2. eCPPT/2. Web Application Attacks",
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/3. Explotacion/2. Exploits Públicos & Exploits con SearchSploit.md",
-    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/3. Client-Side Attacks/1. Payloads.md",
-    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/2. Metasploit Framework (MSF)/3. Client-Side Attacks/2. Encoding Payloads.md",
-    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/1. Explotando Windows/6. AutoBlue-MS17-010.md",
-    "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/6. SAMBA 3.md",
-    "INE Learning/1. eJPTv2/1. Métodos de evaluación/3. Enumeración/1. SMB/4. SAMBA 1.md",
     "Hack The Box/CTFs/Medium",
     "INE Learning/2. eCPPT/Images",
     "INE Learning/2. eCPPT/1. Desarrollo de Recursos & Acceso Inicial/1. Powershell para Pentesters",
