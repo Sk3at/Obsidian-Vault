@@ -14,5 +14,9 @@ Unos segundos luego de ejecutarlo recibimos nuestro revshell en metasploit.
 ![](../../Images/Pasted%20image%2020240420101929.png)
 Ahora que tenemos nuestra sesion la ponemos en segundo plano y podemos utilizar el modulo local_exploit_suggester para verificar posibles caminos disponibles para escalar nuestros privilegios.
 Al utilizarlo no nos trae nada, esto es porque no tenemos una sesion de meterpreter y al intentar actualizarla la misma falla, por lo que buscamos el exploit que utilizamos dentro de metasploit.
-![](../../Images/Pasted%20image%2020240420103229.png)
+
+
+-------------------------------------------------------------------------------------
+
+![](../../../Pasted%20image%2020240421130824.png)
 
