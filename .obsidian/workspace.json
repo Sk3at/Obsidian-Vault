@@ -11,10 +11,14 @@
             "id": "b0109a9fb2698a56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tryhackme/TEST1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "TEST1"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tryhackme/TEST1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de TEST1"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tryhackme/TEST1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de TEST1"
             }
           },
           {
@@ -146,9 +152,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Tryhackme/TEST1.md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de TEST1"
             }
           }
         ]
@@ -170,6 +178,7 @@
   },
   "active": "b0109a9fb2698a56",
   "lastOpenFiles": [
+    "Tryhackme/TEST1.md",
     "Cheatsheet eJPTv2.md",
     "Cheatsheet eCPPT.md",
     "Tryhackme/CTFs/Easy/2. Brooklyn Nine Nine.md",
@@ -195,7 +204,6 @@
     "INE Learning/1. eJPTv2/2. Host & Network Penetration Testing/1. Ataques basados en sistemas/1. Windows/3. Volcado de Credenciales/1. Hashes de contraseñas de Windows.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/4. Reconocimiento DNS.md",
     "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/3. Footprinting con Netcraft.md",
-    "INE Learning/1. eJPTv2/1. Métodos de evaluación/1. Recopilación de información/2. Reconocimiento Pasivo/5. Detección de WAF.md",
     "Pasted image 20240421130824.png",
     "Hack The Box/Images/Pasted image 20240420103229.png",
     "Hack The Box/Images/Pasted image 20240420101929.png",
